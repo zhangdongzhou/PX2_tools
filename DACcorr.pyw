@@ -2,7 +2,24 @@
 """
 Created on Tue Dec 12 23:37:39 2017
 
-@author: Dongzhou_X99
+@author: Dongzhou Zhang (dzzhang@cars.uchicago.edu)
+Diamond correction tool for PX^2
+
+Need: PyQt5, pyepics, python 3.5
+
+Usage:
+    Kphi go to 90 deg (or -90 deg)    
+    Goto IDL scanw, scan m45, find and go to the center, put the center value in 
+the code.
+    Rotate Kphi by positive 5-20 degs, record the relative Kphi value in the
+code.
+    Scan m45 again. find the center (no need to move), put the value to the code.
+    Rotate Kphi by negative 5-20 degs, scan m45 again. find the center (no need to 
+move), put the value to the code.
+    Press the button to finish the diamond correction.
+    
+Issues:
+    Does NOT work for Kphi around 0 deg.
 """
 
 import sys
