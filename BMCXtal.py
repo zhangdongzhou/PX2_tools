@@ -16,6 +16,7 @@ sys.path.append("//corvette/people_rw/specadm/Versions/spec6.08.02/src/splot/")
 from SpecClient import SpecCommand,SpecVariable
 import re
 import os
+import numpy as np
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -490,9 +491,11 @@ class Ui_MainWindow(object):
         if flgon:
             self.Detmov(Delt, Nu)
             xtalcmd = SpecCommand.SpecCommandA('','corvette.cars.aps.anl.gov:6780')
+            kphivelo = epics.caget('13BMC:m33.VELO')
+            kphiini = epics.caget('13BMC:m33.VAL')
             cmdcon = "xtal kphi " + KphiS.text()+' '+ KphiE.text()+' '+ StpN.text()+' '+ TimNE.text()
             eval("xtalcmd.executeCommand(\"%s\")" % cmdcon)
-            Ttem = (float(KphiE.text())-float(KphiS.text()))*float(TimNE.text())*2
+            Ttem = np.abs(kphiini-float(KphiS.text()))/kphivelo + float(TimNE.text())*float(StpN.text()) + 3
             time.sleep(Ttem)
             self.lastscan(self.LogL1, 'templog.txt')
     
