@@ -82,7 +82,7 @@ class DACcorr(QMainWindow):
             dx = (mis-pls)/(2*math.sin(dphi/180*math.pi))
             x_ini = epics.caget('13BMC:m44.VAL')
             x_fin = x_ini+dx
-            txt1 = 'Move sample_X from '+str(x_ini)+' by '+str(dx)[0:8]+' to '+str(x_fin)[0:8]
+            txt1 = 'Move sample_X from '+str(x_ini)[0:7]+' by '+str(dx)[0:7]+' to '+str(x_fin)[0:7]
             self.lbl5.setText(txt1)
             self.lbl5.adjustSize()
             epics.caput('13BMC:m44.VAL',x_fin)
