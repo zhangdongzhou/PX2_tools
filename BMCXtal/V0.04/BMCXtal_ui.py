@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'BMCXtal_ui.ui'
+# Form implementation generated from reading ui file '.\BMCXtal_ui.ui'
 #
-# Created: Wed Jun 19 13:36:17 2019
+# Created: Mon Jun 24 10:51:54 2019
 #      by: PyQt4 UI code generator 4.10.4
 #
 # WARNING! All changes made in this file will be lost!
@@ -335,6 +335,7 @@ class Ui_MainWindow(object):
         self.LogL1 = QtGui.QLabel(self.LogZoneWidget)
         self.LogL1.setGeometry(QtCore.QRect(0, 0, 331, 441))
         self.LogL1.setText(_fromUtf8(""))
+        self.LogL1.setTextInteractionFlags(QtCore.Qt.TextSelectableByMouse)
         self.LogL1.setObjectName(_fromUtf8("LogL1"))
         self.LogZone.setWidget(self.LogZoneWidget)
         self.warn1 = QtGui.QLabel(self.centralwidget)
@@ -367,6 +368,30 @@ class Ui_MainWindow(object):
         font.setPointSize(12)
         self.Calibration.setFont(font)
         self.Calibration.setObjectName(_fromUtf8("Calibration"))
+        self.CK1 = QtGui.QCheckBox(self.centralwidget)
+        self.CK1.setGeometry(QtCore.QRect(590, 340, 21, 21))
+        self.CK1.setText(_fromUtf8(""))
+        self.CK1.setObjectName(_fromUtf8("CK1"))
+        self.CK2 = QtGui.QCheckBox(self.centralwidget)
+        self.CK2.setGeometry(QtCore.QRect(590, 380, 21, 21))
+        self.CK2.setText(_fromUtf8(""))
+        self.CK2.setObjectName(_fromUtf8("CK2"))
+        self.CK3 = QtGui.QCheckBox(self.centralwidget)
+        self.CK3.setGeometry(QtCore.QRect(590, 420, 21, 21))
+        self.CK3.setText(_fromUtf8(""))
+        self.CK3.setObjectName(_fromUtf8("CK3"))
+        self.CK4 = QtGui.QCheckBox(self.centralwidget)
+        self.CK4.setGeometry(QtCore.QRect(590, 460, 21, 21))
+        self.CK4.setText(_fromUtf8(""))
+        self.CK4.setObjectName(_fromUtf8("CK4"))
+        self.CK5 = QtGui.QCheckBox(self.centralwidget)
+        self.CK5.setGeometry(QtCore.QRect(590, 500, 21, 21))
+        self.CK5.setText(_fromUtf8(""))
+        self.CK5.setObjectName(_fromUtf8("CK5"))
+        self.CK6 = QtGui.QCheckBox(self.centralwidget)
+        self.CK6.setGeometry(QtCore.QRect(590, 540, 21, 21))
+        self.CK6.setText(_fromUtf8(""))
+        self.CK6.setObjectName(_fromUtf8("CK6"))
         MainWindow.setCentralWidget(self.centralwidget)
         self.statusbar = QtGui.QStatusBar(MainWindow)
         self.statusbar.setObjectName(_fromUtf8("statusbar"))
@@ -414,4 +439,3 @@ class Ui_MainWindow(object):
         self.Sel2.setText(_translate("MainWindow", "Select", None))
         self.Mv5.setText(_translate("MainWindow", "Move", None))
         self.Calibration.setText(_translate("MainWindow", "Calibration", None))
-
