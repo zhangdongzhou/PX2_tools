@@ -124,7 +124,7 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
         epics.caput('13BMC:m46.VAL',Z)
         Ttem = max((X-X0)/XV,(Y-Y0)/YV, (Z-Z0)/ZV)+1.0
         time.sleep(Ttem)
-        cmdcon = time.asctime()+'\n\tMove to ' + widget4.text()+'\n'+strX+' '+strY+' '+strZ + '\n'
+        cmdcon = time.asctime()+'\n    Move to ' + widget4.text()+': '+strX+', '+strY+', '+strZ + '\n'
         f = open(tempfile, 'a+')
         dummy2 = f.read()
         f.close()
@@ -146,7 +146,7 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
         nuV = epics.caget('13BMC:m38.VELO')
         epics.caput('13BMC:m37.VAL',dl1)
         epics.caput('13BMC:m38.VAL',nu1)
-        Ttem = max((dl1-dl0)/dlV,(nu1-nu0)/nuV)+8.0
+        Ttem = max((dl1-dl0)/dlV,(nu1-nu0)/nuV)+5.0
         time.sleep(Ttem)
         
     def DataColl(self, Delt, Nu, KphiS, KphiE, StpN, TimNE):
@@ -173,11 +173,12 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
         LXL = [self.LX1, self.LX2, self.LX3, self.LX4, self.LX5, self.LX6]
         LYL = [self.LY1, self.LY2, self.LY3, self.LY4, self.LY5, self.LY6]
         LZL = [self.LZ1, self.LZ2, self.LZ3, self.LZ4, self.LZ5, self.LZ6]
+        CL = [self.C1, self.C2, self.C3, self.C4, self.C5, self.C6]
         for i in range(6):
             if CKL[i].isChecked()==True:
-                self.Mv_click(LXL[i],LYL[i],LZL[i])
+                self.Mv_click(LXL[i],LYL[i],LZL[i], CL[i], self.LogL1, 'templog.txt')
                 time.sleep(1)
-                self.DataColl(self, Delt, Nu, KphiS, KphiE, StpN, TimNE)
+                self.DataColl(Delt, Nu, KphiS, KphiE, StpN, TimNE)
                 time.sleep(3)
                 CKL[i].setChecked(False)
     
@@ -259,7 +260,7 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
         len1 = len(LogPath)
         dummy = FilePath[len1:-4]
         dummy1 = re.split('_', dummy)
-        cmdcon = time.asctime()+'\n\t'+ dummy1[2] +' done, saved in folder: '+ dummy1[0]+'_'+dummy1[1]+'\n'
+        cmdcon = time.asctime()+'\n    '+ dummy1[2] +' done, saved in folder: '+ dummy1[0]+'_'+dummy1[1]+'\n'
         f = open(tempfile, 'a+')
         dummy2 = f.read()
         f.close()
@@ -276,7 +277,7 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
         MajorPath = SpecVariable.SpecVariable('STARTUP_PROJECT_PATH', 'corvette.cars.aps.anl.gov:6780').getValue()
         len1 = len(MajorPath+"scandata/")
         dummy = LogPath[len1:-1]
-        cmdcon = time.asctime()+'\n\tNew data will be saved in folder: ' + dummy + '\n'
+        cmdcon = time.asctime()+'\n    New data will be saved in folder: ' + dummy + '\n'
         f = open(tempfile, 'a+')
         dummy2 = f.read()
         f.close()
