@@ -194,6 +194,7 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
     def DataCollAll(self, Delt, Nu, KphiS, KphiE, StpN, TimNE):
         self.Indi.setStyleSheet('color: red')
         self.Indi.setText('BUSY')
+        QtGui.QApplication.processEvents()
         CKL = [self.CK1, self.CK2, self.CK3, self.CK4, self.CK5, self.CK6]
         LXL = [self.LX1, self.LX2, self.LX3, self.LX4, self.LX5, self.LX6]
         LYL = [self.LY1, self.LY2, self.LY3, self.LY4, self.LY5, self.LY6]
