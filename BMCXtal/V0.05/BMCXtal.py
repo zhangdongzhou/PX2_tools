@@ -219,7 +219,7 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
     def newsample(self, newsample):
         SamNam = newsample.text()
         self.warn7.setText('')
-        if (SamNam.find('_')!=-1) or (SamNam.find('/')!=-1):
+        if (SamNam.contains('_')==True) or (SamNam.contains('/')==True):
             self.warn7.setText('Invalid symbol: _ /')
         else:
             xtalcmd = SpecCommand.SpecCommandA('','corvette.cars.aps.anl.gov:6780')
