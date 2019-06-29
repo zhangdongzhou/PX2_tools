@@ -166,9 +166,25 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
             eval("xtalcmd.executeCommand(\"%s\")" % cmdcon)
             Ttem = np.abs(kphiini-float(KphiS.text()))/kphivelo + float(TimNE.text())*float(StpN.text()) + 3
             time.sleep(Ttem)
-            if (int(StpN.text())>1) and (self.SUMCK.ischecked() == True):
-                
-            
+            if (int(StpN.text())>1) and (self.SUMCK.isChecked() == True):
+                DummyPath = SpecVariable.SpecVariable('SCANLOG_PATH', 'corvette.cars.aps.anl.gov:6780').getValue()
+                DummyN = SpecVariable.SpecVariable('SCAN_N', 'corvette.cars.aps.anl.gov:6780').getValue()
+                DumS = 'S'+(3-len(str(DummyN)))*'0'+str(DummyN)+'/'
+                L = re.split('/', DummyPath)
+                FL = 'T:/'+ L[5]+'/'+ L[6]+'/'+ L[7]+'/'+ L[8]+'/'+ L[9]+'/'+ L[10]+'/'+ L[11]+'/images/'+ L[13]+'/'+DumS
+                files = []
+                # r=root, d=directories, f = files
+#                FL = os.getcwd() # Folder Location
+                for r, d, f in os.walk(FL):
+                    for file in f:
+                        if '.cbf' in file:
+                            files.append(os.path.join(r, file))
+                img = fabio.open(files[0])
+                for file in files[1:]:
+                    data = fabio.open(file).data[data<0] = 0
+                    img.data += data
+                IML = FL+'sum.cbf'
+                img.write(IML)
             self.lastscan(self.LogL1, 'templog.txt')
     
     def DataCollAll(self, Delt, Nu, KphiS, KphiE, StpN, TimNE):

@@ -337,7 +337,7 @@ class Ui_MainWindow(object):
         self.LogL1.setText(_fromUtf8(""))
         self.LogL1.setTextInteractionFlags(QtCore.Qt.TextSelectableByMouse)
         self.LogL1.setObjectName(_fromUtf8("LogL1"))
-        self.LogZone.setWidget(self.LogWidget)
+        self.LogZone.setWidget(self.LogL1)
         self.warn1 = QtGui.QLabel(self.centralwidget)
         self.warn1.setGeometry(QtCore.QRect(50, 210, 46, 21))
         self.warn1.setText(_fromUtf8(""))
@@ -452,12 +452,12 @@ class Ui_MainWindow(object):
         self.label_2.setText(_translate("MainWindow", "SUM", None))
 
 
-if __name__ == "__main__":
-    import sys
-    app = QtGui.QApplication(sys.argv)
-    MainWindow = QtGui.QMainWindow()
-    ui = Ui_MainWindow()
-    ui.setupUi(MainWindow)
-    MainWindow.show()
-    sys.exit(app.exec_())
+#if __name__ == "__main__":
+#    import sys
+#    app = QtGui.QApplication(sys.argv)
+#    MainWindow = QtGui.QMainWindow()
+#    ui = Ui_MainWindow()
+#    ui.setupUi(MainWindow)
+#    MainWindow.show()
+#    sys.exit(app.exec_())
 
