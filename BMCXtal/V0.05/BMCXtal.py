@@ -167,6 +167,7 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
             Ttem = np.abs(kphiini-float(KphiS.text()))/kphivelo + float(TimNE.text())*float(StpN.text()) + 3
             time.sleep(Ttem)
             if (int(StpN.text())>1) and (self.SUMCK.isChecked() == True):
+                time.sleep(2)
                 DummyPath = SpecVariable.SpecVariable('SCANLOG_PATH', 'corvette.cars.aps.anl.gov:6780').getValue()
                 DummyN = SpecVariable.SpecVariable('SCAN_N', 'corvette.cars.aps.anl.gov:6780').getValue()
                 DumS = 'S'+(3-len(str(DummyN)))*'0'+str(DummyN)+'/'
@@ -181,8 +182,13 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
                             files.append(os.path.join(r, file))
                 img = fabio.open(files[0])
                 for file in files[1:]:
-                    data = fabio.open(file).data[data<0] = 0
-                    img.data += data
+#                    data = fabio.open(file).data[data<0] = 0
+                    data = fabio.open(file).data
+                    img.data = img.data+data
+                for xi in range(1043):
+                    for xj in range(981):
+                        if img.data[xi, xj] <0:
+                            img.data[xi, xj] = -1
                 IML = FL+'sum.cbf'
                 img.write(IML)
             self.lastscan(self.LogL1, 'templog.txt')
