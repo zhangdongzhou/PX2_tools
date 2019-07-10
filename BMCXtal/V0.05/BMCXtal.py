@@ -220,8 +220,8 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
     def newsample(self, newsample):
         SamNam = newsample.text()
         self.warn7.setText('')
-        if (SamNam.contains('_')==True) or (SamNam.contains('/')==True):
-            self.warn7.setText('Invalid symbol: _ /')
+        if (SamNam.contains('_')==True) or (SamNam.contains('/')==True) or (SamNam.contains('.')==True) or (SamNam.contains(' ')==True):
+            self.warn7.setText('Invalid symbol: _ / . space')
         else:
             xtalcmd = SpecCommand.SpecCommandA('','corvette.cars.aps.anl.gov:6780')
             cmdcon = 'newsample '+SamNam
