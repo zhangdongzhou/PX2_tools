@@ -142,6 +142,8 @@ class DACcorr(QMainWindow):
                     epics.caput('13PIL1MSi:cam1:FileName',tmp)
                     time.sleep(5)
                     epics.caput('13PIL1MSi:cam1:AcquireTime',exp_tim)
+                    epics.caput('13PIL1MSi:cam1:AcquirePeriod',exp_tim+0.5)
+                    epics.caput('13PIL1MSi:cam1:NumImages',1)
                     epics.caput('13PIL1MSi:cam1:Acquire',1)
                     time.sleep(exp_tim+5)                
             epics.caput('13PIL1MSi:cam1:AutoIncrement',1)
