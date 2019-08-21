@@ -70,6 +70,7 @@ class Ui_Dialog(object):
         self.CrysAlis.setFont(font)
         self.CrysAlis.setFrameShape(QtGui.QFrame.Box)
         self.CrysAlis.setText(_fromUtf8(""))
+        self.CrysAlis.setTextInteractionFlags(QtCore.Qt.TextSelectableByMouse)
         self.CrysAlis.setObjectName(_fromUtf8("CrysAlis"))
         self.T1 = QtGui.QLineEdit(Dialog)
         self.T1.setGeometry(QtCore.QRect(310, 40, 131, 31))
