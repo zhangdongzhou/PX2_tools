@@ -172,7 +172,10 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
                 DummyN = SpecVariable.SpecVariable('SCAN_N', 'corvette.cars.aps.anl.gov:6780').getValue()
                 DumS = 'S'+(3-len(str(DummyN)))*'0'+str(DummyN)+'/'
                 L = re.split('/', DummyPath)
-                FL = 'T:/'+ L[5]+'/'+ L[6]+'/'+ L[7]+'/'+ L[8]+'/'+ L[9]+'/'+ L[10]+'/'+ L[11]+'/images/'+ L[13]+'/'+DumS
+                # For Win7 system
+                # FL = 'T:/'+ L[5]+'/'+ L[6]+'/'+ L[7]+'/'+ L[8]+'/'+ L[9]+'/'+ L[10]+'/'+ L[11]+'/images/'+ L[13]+'/'+DumS
+                # For Win10 system
+                FL = '//cars5/data/'+ L[5]+'/'+ L[6]+'/'+ L[7]+'/'+ L[8]+'/'+ L[9]+'/'+ L[10]+'/'+ L[11]+'/images/'+ L[13]+'/'+DumS
                 files = []
                 # r=root, d=directories, f = files
                 for r, d, f in os.walk(FL):
