@@ -182,6 +182,8 @@ class mainUI(QtGui.QMainWindow, ui.Ui_MainWindow):
                     for file in f:
                         if '.cbf' in file:
                             files.append(os.path.join(r, file))
+                        elif '.tif' in file:
+                            files.append(os.path.join(r, file))
                 img = fabio.open(files[0])
                 for file in files[1:]:
                     data = fabio.open(file).data
