@@ -3,7 +3,7 @@ Python tools for Partnership for Extreme Crystallography (PX2)
 
 Components:
 
-  -BMCXtal: single crystal diffraction data collection GUI used at PX2. Requires Python 2.7.14, PyQt4.11.4, SPEC 6.08.02, pyepics3.3.3 (for python 2.7).
+  -BMCXtal: single crystal diffraction data collection GUI used at PX2. Stable version requires Python 2.7.14, PyQt 4.11.4, SPEC 6.08.02, pyepics 3.3.3, fabio 0.9.0, numpy 1.16.5.
 	
   -Gridscan: Grid powder scan with stationary detector position.
 	
