@@ -76,6 +76,8 @@ class Logic_MainWindow(QtWidgets.QMainWindow, mainW):
         elif self.Vmotor.text()=='13BMC:m44' and np.abs(Phi-0)>1.5:
             self.Notes.setText('Check phi angle')
         else:
+            epics.caput('13BMC:m33.VAL',Phi)
+            time.sleep(5)
             self.Notes.setText('')
             epics.caput('13PIL1MSi:cam1:AutoIncrement',0)
             X_siz = (X_end-X_srt)/(X_Ntp-1)
