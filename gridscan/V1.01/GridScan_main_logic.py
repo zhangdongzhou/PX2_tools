@@ -59,6 +59,8 @@ class Logic_MainWindow(QtWidgets.QMainWindow, mainW):
         tmp = self.Vmotor.text()+'.LLM'
         YD = epics.caget(tmp)
         
+        Phi = float(self.Phi.text())
+        
         exp_tim = float(self.ExpTim.text())
         
         if X_srt <= XD or X_end <= XD:
@@ -69,6 +71,10 @@ class Logic_MainWindow(QtWidgets.QMainWindow, mainW):
             self.Notes.setText('V low limit error')
         elif Y_srt >= YU or Y_end >= YU:
             self.Notes.setText('V high limit error')
+        elif self.Vmotor.text()=='13BMC:m45' and np.abs(Phi-90)>1.5:
+            self.Notes.setText('Check phi angle')
+        elif self.Vmotor.text()=='13BMC:m44' and np.abs(Phi-0)>1.5:
+            self.Notes.setText('Check phi angle')
         else:
             self.Notes.setText('')
             epics.caput('13PIL1MSi:cam1:AutoIncrement',0)
