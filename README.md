@@ -14,3 +14,5 @@ Components:
   -Pymask: mask bad pixels in Pilatus cbf images. Currently set for run 2019-1 April Pilatus detector setup. Need to change the masked out region for future use.
 	
   -ShutterDelay: measure the pneumatic bench shutter delay at APS 13-BM-C.
+
+  -Tifconverter: converts cbf images to tif images, so that they can be processed by ATREX.
