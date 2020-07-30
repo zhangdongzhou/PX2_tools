@@ -1,0 +1,86 @@
+..
+..  @(#)README	6.1  05/11/20 CSS
+..  "pyspec" Release 6
+..
+
+These examples show some of the features of the SpecClient module
+and how to integrate them module within a Python/Qt4 graphical
+application.
+
+To use a different graphical toolkit, implement a method to regularly
+update events coming from spec. In the examples, a QTimer is used
+to call the function "update_spec_events()".
+
+Spec server protocol is described in detail in:
+
+    http://www.certif.com/spec_help/server.html
+
+In particular, the document includes the list of properties that
+are available.  Subscribe to a property to receive events when the
+property value changes.
+
+The examples use the application "fourc".  To connect to another
+instance, change the name in the example file.
+
+In order to connect with the client, spec must be started in server
+mode, using the "-S" flag, as in:
+
+  bash% fourc -S
+
+In order for the example scripts to find the spec client Python module,
+be sure the spec auxiliary file directory is in the Python path.
+For example,
+   
+    export PYTHONPATH=$PYTHONPATH:/usr/local/lib/spec.d
+
+Alternatively, the Python scripts could include these lines:
+
+    import sys
+    sys.path.append("/usr/local/lib/spec.d")
+
+Then
+
+    import pyspec
+
+or
+
+    from pyspec.client import SpecCommand
+
+Finally to run an example script, type:
+
+   python example.py
+
+where "example.py" is one of the following:
+
+example_qt_variable.py
+
+   Sets a variable and receives updates.  The example uses a variable
+   named "MYVAR".  Create a global variable in the spec server
+   session with that name before running the python script.
+
+example_qt_motor.py  
+
+   Shows state and position updates for a motor with the mnemonic
+   "chi".
+
+example_qt_command.py  
+
+   Sends the command "wa" and creates and runs a new macro function
+   with arguments and retrieves the return value.  The example uses
+   the following macro function:
+
+      def hello(name) '{
+          retstr = sprintf("Hello %s", name)
+          print retstr
+          return retstr
+      }'
+
+example_qt_status.py  
+
+   Check for connection status and ready/busy status.  The connection
+   to ready/busy channel illustrate also how to connect to any
+   arbitrary spec property
+
+   An "abort" button shows how to interrupt a running macro or command
+   in spec.
+
