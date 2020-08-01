@@ -126,6 +126,7 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
         time.sleep(Ttem)
         cmdcon = time.asctime()+'\n    Move to ' + widget4.text()+': '+strX+', '+strY+', '+strZ + '\n'
         f = open(tempfile, 'a+')
+        f.seek(0)
         dummy2 = f.read()
         f.close()
         os.remove(tempfile)
@@ -300,6 +301,7 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
         dummy1 = re.split('_', dummy)
         cmdcon = time.asctime()+'\n    '+ dummy1[2] +' done, saved in folder: '+ dummy1[0]+'_'+dummy1[1]+'\n'
         f = open(tempfile, 'a+')
+        f.seek(0)
         dummy2 = f.read()
         f.close()
         os.remove(tempfile)
@@ -317,6 +319,7 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
         dummy = LogPath[len1:-1]
         cmdcon = time.asctime()+'\n    New data will be saved in folder: ' + dummy + '\n'
         f = open(tempfile, 'a+')
+        f.seek(0)
         dummy2 = f.read()
         f.close()
         os.remove(tempfile)
