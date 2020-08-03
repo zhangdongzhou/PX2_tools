@@ -151,7 +151,7 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
         time.sleep(Ttem)
         xtalcmd = SpecCommand.SpecCommandA('','corvette.cars.aps.anl.gov:6780')
         eval("xtalcmd.executeCommand(\"%s\")" % 'wh')
-        time.sleep(1)
+        time.sleep(2)
         
     def DataColl(self, Delt, Nu, KphiS, KphiE, StpN, TimNE):
         flgon = 1
