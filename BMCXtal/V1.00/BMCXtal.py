@@ -147,7 +147,7 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
         nuV = epics.caget('13BMC:m38.VELO')
         epics.caput('13BMC:m37.VAL',dl1)
         epics.caput('13BMC:m38.VAL',nu1)
-        Ttem = max(np.abs(dl1-dl0)/dlV,np.abs(nu1-nu0)/nuV)+2.0
+        Ttem = max(np.abs(dl1-dl0)/dlV,np.abs(nu1-nu0)/nuV)+3.5
         time.sleep(Ttem)
         
     def DataColl(self, Delt, Nu, KphiS, KphiE, StpN, TimNE):
