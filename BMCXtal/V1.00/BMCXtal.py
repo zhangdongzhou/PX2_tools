@@ -147,10 +147,11 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
         nuV = epics.caget('13BMC:m38.VELO')
         epics.caput('13BMC:m37.VAL',dl1)
         epics.caput('13BMC:m38.VAL',nu1)
-        Ttem = max(np.abs(dl1-dl0)/dlV,np.abs(nu1-nu0)/nuV)+5.0
+        Ttem = max(np.abs(dl1-dl0)/dlV,np.abs(nu1-nu0)/nuV)+4.0
         time.sleep(Ttem)
         xtalcmd = SpecCommand.SpecCommandA('','corvette.cars.aps.anl.gov:6780')
         eval("xtalcmd.executeCommand(\"%s\")" % 'wh')
+        time.sleep(1)
         
     def DataColl(self, Delt, Nu, KphiS, KphiE, StpN, TimNE):
         flgon = 1
