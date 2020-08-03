@@ -333,6 +333,7 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
 if __name__ == "__main__":
     xtalcmd = SpecCommand.SpecCommandA('','corvette.cars.aps.anl.gov:6780')
     eval("xtalcmd.executeCommand(\"%s\")" % 'wh')
+    eval("xtalcmd.executeCommand(\"%s\")" % 'qdo /home/specadm/macros_gsecars/single_scan.mac')
     try:
         os.remove('templog.txt')
     except:
