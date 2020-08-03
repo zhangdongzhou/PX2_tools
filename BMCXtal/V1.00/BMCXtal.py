@@ -7,7 +7,6 @@ Created on Wed May  8 14:36:10 2019
 import epics
 import time
 import sys
-# sys.path.append("//corvette/people_rw/specadm/Versions/spec6.08.02/src/splot/")
 from pyspec.client import SpecCommand,SpecVariable
 import re
 import os
