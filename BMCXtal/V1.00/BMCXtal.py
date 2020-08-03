@@ -15,7 +15,7 @@ import numpy as np
 import BMCXtal_ui as ui
 import BMCXtal_calibui as calibui
 import fabio
-from PyQt5 import QtCore, QtGui, QtWidgets
+from PyQt5 import QtWidgets
 
 class calibUI(QtWidgets.QDialog, calibui.Ui_Dialog):
     def __init__(self, parent=None):
@@ -122,7 +122,7 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
         epics.caput('13BMC:m44.VAL',X)
         epics.caput('13BMC:m45.VAL',Y)
         epics.caput('13BMC:m46.VAL',Z)
-        Ttem = max((X-X0)/XV,(Y-Y0)/YV, (Z-Z0)/ZV)+1.0
+        Ttem = max(np.abs(X-X0)/XV,np.abs(Y-Y0)/YV, np.abs(Z-Z0)/ZV)+1.0
         time.sleep(Ttem)
         cmdcon = time.asctime()+'\n    Move to ' + widget4.text()+': '+strX+', '+strY+', '+strZ + '\n'
         f = open(tempfile, 'a+')
@@ -147,7 +147,7 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
         nuV = epics.caget('13BMC:m38.VELO')
         epics.caput('13BMC:m37.VAL',dl1)
         epics.caput('13BMC:m38.VAL',nu1)
-        Ttem = max((dl1-dl0)/dlV,(nu1-nu0)/nuV)+5.0
+        Ttem = max(np.abs(dl1-dl0)/dlV,np.abs(nu1-nu0)/nuV)+2.0
         time.sleep(Ttem)
         
     def DataColl(self, Delt, Nu, KphiS, KphiE, StpN, TimNE):
@@ -226,7 +226,6 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
     def newsample(self, newsample):
         SamNam = newsample.text()
         self.warn7.setText('')
-        # if (SamNam.contains('_')==True) or (SamNam.contains('/')==True) or (SamNam.contains('.')==True) or (SamNam.contains(' ')==True):
         if (SamNam.find('_')!=-1) or (SamNam.find('/')!=-1) or (SamNam.find('.')!=-1) or (SamNam.find(' ')!=-1):
             self.warn7.setText('Invalid symbol: _ / . space')
         else:
