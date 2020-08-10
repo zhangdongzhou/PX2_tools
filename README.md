@@ -15,4 +15,4 @@ Components:
 	
   -ShutterDelay: measure the pneumatic bench shutter delay at APS 13-BM-C.
 
-  -Tifconverter: converts cbf images to tif images, so that they can be processed by ATREX.
+  -CBFTIF (replacing Tif_converter with user interface): converts cbf images to tif images, so that they can be processed by ATREX.
