@@ -16,3 +16,5 @@ Components:
   -ShutterDelay: measure the pneumatic bench shutter delay at APS 13-BM-C.
 
   -CBFTIF (replacing Tif_converter with user interface): converts cbf images to tif images, so that they can be processed by ATREX. Requires Python3, PyQt5, fabio
+
+  -DACAxis: Calculator that can get the Miller indices of the crystal along the X-ray direction, which is needed for Brillouin experiment. Works with both ATREX/RSV and APEX p4p files. Requires Python3, PyQt5, regex.
