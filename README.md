@@ -18,3 +18,7 @@ Components:
   -CBFTIF (replacing Tif_converter with user interface): converts cbf images to tif images, so that they can be processed by ATREX. Requires Python3, PyQt5, fabio
 
   -DACAxis: Calculator that can get the Miller indices of the crystal along the X-ray direction, which is needed for Brillouin experiment. Works with both ATREX/RSV and APEX p4p files. Requires Python3, PyQt5, regex.
+
+  ### Notes on Python environment
+  
+  BMCXtal, DACcorr, CBFTIF, DACAxis needs Python3, PyQt5, numpy, pyepics, fabio. At beamline they all should work with virtual environment "BMCXtal". To run some codes in your own computers, please install pyepics and fabio in Anaconda3 environment, and in Anaconda3 prompt run "python the_script_name.py"
