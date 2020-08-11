@@ -16,7 +16,7 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import numpy as np
 import re
-
+QtCore.QCoreApplication.setAttribute(QtCore.Qt.AA_EnableHighDpiScaling)
 
 class Ui_MainWindow(QtWidgets.QMainWindow):
     def setupUi(self, MainWindow):
