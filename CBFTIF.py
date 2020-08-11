@@ -5,6 +5,13 @@
 # Created by: PyQt5 UI code generator 5.12.3
 #
 # WARNING! All changes made in this file will be lost!
+#
+# author: Dongzhou Zhang (dzzhang@cars.uchicago.edu)
+#
+# Convert CBF images into TIF images, with user interface.
+# Need Python3, PyQt5, fabio and numpy packages
+# TIF images can be processed by ATREX/RSV software package
+# Tested with single crystal diffraction data at PX^2, APS 13-BM-C
 
 
 from PyQt5 import QtCore, QtWidgets

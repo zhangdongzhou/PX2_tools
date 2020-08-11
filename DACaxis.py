@@ -5,7 +5,13 @@
 # Created by: PyQt5 UI code generator 5.12.3
 #
 # WARNING! All changes made in this file will be lost!
-
+#
+# author: Dongzhou Zhang (dzzhang@cars.uchicago.edu)
+#
+# Crystal orientation calculator for PX^2 single crystal diffraction
+# Useful for Brillouin experiment
+# Works with most P4P format once the crystal orientation is determined by
+# e.g., APEX or ATREX/RSV
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 import numpy as np
