@@ -7,7 +7,7 @@ Components:
 	
   -Gridscan: Grid powder scan with stationary detector position.
 	
-  -DACcorr: DAC correction program to find the rotation center.
+  -DACcorr: DAC correction program to find the rotation center. Requires Python3, PyQt5, pyepics
 	
   -PyRename: rename MARCCD TIF images to bruker mccd type file.
 	
@@ -15,4 +15,4 @@ Components:
 	
   -ShutterDelay: measure the pneumatic bench shutter delay at APS 13-BM-C.
 
-  -Tifconverter: converts cbf images to tif images, so that they can be processed by ATREX.
+  -CBFTIF (replacing Tif_converter with user interface): converts cbf images to tif images, so that they can be processed by ATREX. Requires Python3, PyQt5, fabio
