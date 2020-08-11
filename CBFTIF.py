@@ -18,6 +18,7 @@ from PyQt5 import QtCore, QtWidgets
 import sys
 import fabio
 import os
+QtCore.QCoreApplication.setAttribute(QtCore.Qt.AA_EnableHighDpiScaling)
 
 class Ui_MainWindow(QtWidgets.QMainWindow):
     # It is very important to replace the 'object' to QtWidgets.QMainWindow from pyuic, without the '()'.
