@@ -102,7 +102,7 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
         self.LX2.setText('')
         self.LY2.setText('')
         self.LZ2.setText('')
-        self.C3.setText('')
+        self.C2.setText('')
         self.LX3.setText('')
         self.LY3.setText('')
         self.LZ3.setText('')
