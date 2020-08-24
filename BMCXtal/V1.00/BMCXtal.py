@@ -88,7 +88,48 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
         
         self.Calibration.clicked.connect(lambda: self.calib_clicked())
         
+        self.Clear1.clicked.connect(lambda: self.Clear1_clicked())
+        
+        self.Clear2.clicked.connect(lambda: self.Clear2_clicked())
+        
         ###################### Define actions #############
+    
+    def Clear1_clicked(self):
+        self.LX1.setText('')
+        self.LY1.setText('')
+        self.LZ1.setText('')
+        self.C1.setText('')
+        self.LX2.setText('')
+        self.LY2.setText('')
+        self.LZ2.setText('')
+        self.C3.setText('')
+        self.LX3.setText('')
+        self.LY3.setText('')
+        self.LZ3.setText('')
+        self.C3.setText('')
+        self.LX4.setText('')
+        self.LY4.setText('')
+        self.LZ4.setText('')
+        self.C4.setText('')
+        self.LX5.setText('')
+        self.LY5.setText('')
+        self.LZ5.setText('')
+        self.C5.setText('')
+        self.LX6.setText('')
+        self.LY6.setText('')
+        self.LZ6.setText('')
+        self.C6.setText('')
+    
+    def Clear2_clicked(self):
+        self.LogL1.setText('')
+        try:
+            os.remove('templog.txt')
+        except:
+            pass
+        f = open('templog.txt','w')
+        f.write('')
+        f.close()
+    
     def calib_clicked(self):
         self.dialog = calibUI(self)
         self.dialog.show()
@@ -175,8 +216,6 @@ class mainUI(QtWidgets.QMainWindow, ui.Ui_MainWindow):
                 DummyN = SpecVariable.SpecVariable('SCAN_N', 'corvette.cars.aps.anl.gov:6780').getValue()
                 DumS = 'S'+(3-len(str(DummyN)))*'0'+str(DummyN)+'/'
                 L = re.split('/', DummyPath)
-                # For Win7 system
-                # FL = 'T:/'+ L[5]+'/'+ L[6]+'/'+ L[7]+'/'+ L[8]+'/'+ L[9]+'/'+ L[10]+'/'+ L[11]+'/images/'+ L[13]+'/'+DumS
                 # For Win10 system
                 FL = '//cars5/data/'+ L[5]+'/'+ L[6]+'/'+ L[7]+'/'+ L[8]+'/'+ L[9]+'/'+ L[10]+'/'+ L[11]+'/images/'+ L[13]+'/'+DumS
                 files = []
