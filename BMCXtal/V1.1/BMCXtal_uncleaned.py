@@ -17,6 +17,12 @@ import numpy as np
 
 import BMCXtal_calibui as calibui
 import fabio
+###### Dummy section, remove in real code
+dummynum1 = 0.01
+dummynum2 = 0.03
+dummynum3 = 0.04
+dummystr1 = 'dummy/path/place/holder'
+dummystr2 = 'checked'
 
 
 class calibUI(QtWidgets.QDialog, calibui.Ui_Dialog):
@@ -73,6 +79,7 @@ class MainWindow(QtWidgets.QMainWindow):
         ##### Set Layout
         self.setWindowTitle("13BMC Single Crystal Data Collection")
         self.CW = QtWidgets.QWidget(self)
+        # self.CWLayout = QtWidgets.QVBoxLayout(self.CW)
         self.CWLayout = QtWidgets.QGridLayout(self.CW)
         
         # Topleft section
@@ -185,8 +192,10 @@ class MainWindow(QtWidgets.QMainWindow):
         labelBLayout.addWidget(L16, 1, 9, 1, 1)
         L17 = QtWidgets.QLabel("Sum", self.labelBox)
         L17.setFont(font)
+        # L17.setAlignment(QtCore.Qt.AlignCenter)
         labelBLayout.addWidget(L17, 1, 10, 1, 1)
-        
+        # self.L18 = QtWidgets.QLabel("", self.labelBox)
+        # labelBLayout.addWidget(self.L18, 1, 11, 1, 1)
         L19 = QtWidgets.QLabel("Collect?", self.labelBox)
         L19.setFont(font)
         L19.setAlignment(QtCore.Qt.AlignCenter)
@@ -200,7 +209,11 @@ class MainWindow(QtWidgets.QMainWindow):
         self.Add_Btn = QtWidgets.QPushButton('Add', self.CW)
         self.Add_Btn.setFont(QtGui.QFont('Arial', 15))
         self.CWLayout.addWidget(self.Add_Btn, 2, 12, 1, 2)
-     
+        # self.Rem_Btn = QtWidgets.QPushButton('Remove', self.CW)
+        # self.CWLayout.addWidget(self.Rem_Btn, 3, 12, 1, 2)
+        
+
+
         # Scroll area 1: Logzone
         self.LogZone = QtWidgets.QScrollArea(self.CW)
         self.LogZone.setWidgetResizable(True)
@@ -223,29 +236,53 @@ class MainWindow(QtWidgets.QMainWindow):
         self.ControlLayout.addItem(QtWidgets.QSpacerItem(20, 40, QtWidgets.QSizePolicy.Minimum, QtWidgets.QSizePolicy.Expanding))
         self.ControlZone.setWidget(self.ControlWidget)
         self.CWLayout.addWidget(self.ControlZone, 5, 0, 11, 15)
+        # self.ControlZone.setWidget(self.ControlWidget)
 
+    #     self.buttonWidget = QtWidgets.QWidget(self.centralwidget)
+    #     self.buttonAddGroupBox = QtWidgets.QPushButton('Add GroupBox', self.buttonWidget)
+    #     self.buttonDeleteGroupBox = QtWidgets.QPushButton('DeleteLater GroupBox', self.buttonWidget)
+    #     self.readvalue1 = QtWidgets.QPushButton('read value1', self.buttonWidget)
+    #     self.readvalue2 = QtWidgets.QPushButton('read value2', self.buttonWidget)
+    #     self.value1=QtWidgets.QLabel(self.buttonWidget)
+    #     self.value2=QtWidgets.QLabel(self.buttonWidget)
+    #     self.buttonLayout = QtWidgets.QGridLayout(self.buttonWidget)
+    #     self.buttonLayout.addWidget(self.buttonAddGroupBox,          0, 0, 1, 1)
+    #     self.buttonLayout.addWidget(self.buttonDeleteGroupBox,  0, 1, 1, 1)
+    #     self.buttonLayout.addWidget(self.readvalue1,   1, 0, 1, 1)
+    #     self.buttonLayout.addWidget(self.readvalue2, 1, 1, 1, 1)
+    #     self.buttonLayout.addWidget(self.value1,    0,2,1,1)
+    #     self.buttonLayout.addWidget(self.value2,    1,2,1,1)
+        
+        
+    #     self.centralwidgetLayout.addWidget(self.buttonWidget)
+    #     self.centralwidgetLayout.addWidget(self.scrollArea)
         self.setCentralWidget(self.CW)
 
         self.Add_Btn.clicked.connect(self.addpoints)
         
         self.Col_Btn.clicked.connect(self.Datacol_clicked)
-
+        # self.Rem_Btn.clicked.connect(self.deleteLaterGroupBox)
+        
         self.selgroup = QtWidgets.QButtonGroup()
         self.selgroup.buttonClicked.connect(self.selgroup_clicked)
         self.movgroup = QtWidgets.QButtonGroup()
         self.remgroup = QtWidgets.QButtonGroup()
         self.remgroup.buttonClicked.connect(self.remgroup_clicked)
-
+    #     self.readvalue1.clicked.connect(self.removeItemGroupBox)
+    #     self.readvalue2.clicked.connect(self.removeWidgetGroupBox)
         self.B1.clicked.connect(lambda: self.findfolder())
 
         self.FolderUpdate.clicked.connect(lambda: self.updatesample(self.newsample))
         
         self.Calibration.clicked.connect(lambda: self.calib_clicked())
-               
+        
+        # self.Clear1.clicked.connect(lambda: self.Clear1_clicked())
+        
         self.Clear2.clicked.connect(lambda: self.Clear2_clicked())
 
     def addpoints(self):
         count = self.ControlLayout.count()-1
+        # pointBox = QtWidgets.QGroupBox('Point ' + str(count), self.ControlWidget)
         pointBox = QtWidgets.QGroupBox(self.ControlWidget)
         self.ControlLayout.insertWidget(count, pointBox)
 
@@ -266,13 +303,26 @@ class MainWindow(QtWidgets.QMainWindow):
         Btn2 =  QtWidgets.QPushButton('Remove',pointBox)
         pointLayout.addWidget(Btn2, 0, 14, 1, 1)
         self.remgroup.addButton(Btn2)
-
+        ####### test
+        # print(self.remgroup.buttons())
+        # print(Btn2.parentWidget())
+        # count = self.ControlLayout.count()
+        # print(count)
+        # item = self.ControlLayout.itemAt(count - 2).widget()
+        # print(item)
+    
+    # def remove_btn_clicked(button):
+    #     widget = button.parentWidget()
+    #     widget.deleteLater()
     
     def remgroup_clicked(self, button):
+        # print(button, button.parent(), button.parent().parent())
         button.parent().deleteLater()
-
+        # print(button.children()[1].children()[-3].children()[0].children())
     
     def selgroup_clicked(self, button):
+        # print(button.parent().children())
+        
         X = epics.caget('13BMC:m44.VAL')
         Y = epics.caget('13BMC:m45.VAL')
         Z = epics.caget('13BMC:m46.VAL')
@@ -310,9 +360,11 @@ class MainWindow(QtWidgets.QMainWindow):
                         flgon = 0
                 
                 if flgon:
+                    # print(flgon)
                     if float(item.children()[6].text()).is_integer() == 0:
                         item.children()[6].setStyleSheet('background-color: red')
                         flgon = 0
+                    # print(flgon)
                         
        
         if flgon:
@@ -330,23 +382,29 @@ class MainWindow(QtWidgets.QMainWindow):
                     
                     flgon = flgon1*flgon2*flgon3*flgon4*flgon5*flgon6*flgon7*flgon8
 
+        
+        # msg = QtWidgets.QMessageBox(QtWidgets.QMessageBox.Question, 'Checktime', 'Select')
+        # ret =msg.question(msg, title, text)
         if flgon:
             
             # Estimate time start
             Txrd = 0
             for item in boxlist:
                 if item.children()[13].isChecked() == True:
-                    Txrd = Txrd + 10
+                    Txrd = Txrd + 11
                     if item.children()[11].isChecked() == True:
-                        Txrd = Txrd + 10
+                        Txrd = Txrd + 5
                     Nstep = float(item.children()[6].text())
                     Texpo = float(item.children()[7].text())
                     Txrd = Txrd + Nstep*Texpo
             
             WarnTxt = "Estimated XRD time in minutes: " + str(round(Txrd/60))
+            
+            
             # Estimate time end
             
             ret = QtWidgets.QMessageBox.question(self, 'MessageBox', WarnTxt, QtWidgets.QMessageBox.Yes | QtWidgets.QMessageBox.No)
+            # print(self.ControlWidget.children()[1::])
             if ret == QtWidgets.QMessageBox.Yes:
                 
                 self.L6.setStyleSheet('color: red')
@@ -355,15 +413,18 @@ class MainWindow(QtWidgets.QMainWindow):
                 
                 boxlist = self.ControlWidget.children()[1::]
                 for item in boxlist:
+                    # print(item.children())
                     if item.children()[13].isChecked() == True:
                         self.Mv_click(item.children()[8],item.children()[9],item.children()[10], item.children()[1], self.LogL1, 'templog.txt')
                         self.PointCol(item.children())
+                        # item.children()[1].setText(dummystr2)
                         item.children()[13].setChecked(0)
                         
                 self.L6.setStyleSheet('color: green')
                 self.L6.setText('DONE')
                     
     def PointCol(self, group):
+        # group[1].setText(dummystr2)
         Delt = group[2]
         Nu = group[3]
         KphiS = group[4]
@@ -376,7 +437,7 @@ class MainWindow(QtWidgets.QMainWindow):
         kphiini = epics.caget('13BMC:m33.VAL')
         cmdcon = "xtal kphi " + KphiS.text()+' '+ KphiE.text()+' '+ str(int(StpN.text()))+' '+ TimNE.text()
         eval("xtalcmd.executeCommand(\"%s\")" % cmdcon)
-        Ttem = np.abs(kphiini-float(KphiS.text()))/kphivelo + float(TimNE.text())*float(StpN.text()) + 4.0
+        Ttem = np.abs(kphiini-float(KphiS.text()))/kphivelo + float(TimNE.text())*float(StpN.text()) + 3.0
         time.sleep(Ttem)
         if (int(StpN.text())>1) and (group[11].isChecked() == True):
             time.sleep(2.0)
@@ -412,7 +473,9 @@ class MainWindow(QtWidgets.QMainWindow):
         if flg:
             prefix = '13BMC:m'+str(Nmot)
             HLM = epics.caget(prefix+'.HLM')
+            # print(HLM)
             LLM = epics.caget(prefix+'.LLM')
+            # print(LLM)
             num1 = float(widget.text())
             if num1 > HLM:
                 widget2.setText('high lim')
@@ -470,11 +533,11 @@ class MainWindow(QtWidgets.QMainWindow):
         nuV = epics.caget('13BMC:m38.VELO')
         epics.caput('13BMC:m37.VAL',dl1)
         epics.caput('13BMC:m38.VAL',nu1)
-        Ttem = max(np.abs(dl1-dl0)/dlV,np.abs(nu1-nu0)/nuV)+2.0
+        Ttem = max(np.abs(dl1-dl0)/dlV,np.abs(nu1-nu0)/nuV)+4.0
         time.sleep(Ttem)
         xtalcmd = SpecCommand.SpecCommandA('','corvette.cars.aps.anl.gov:6780')
         eval("xtalcmd.executeCommand(\"%s\")" % 'wh')
-        time.sleep(1.0)
+        time.sleep(2)
         
     def lastscan(self, widget1, tempfile):
         # only use after one scan is done. Newsample command creates a new logPath.
@@ -563,7 +626,7 @@ class MainWindow(QtWidgets.QMainWindow):
         f.write(dummy3)
         f.close()
         widget5.setText(dummy3)
-        time.sleep(1.0)
+        time.sleep(1)
 
     def Clear2_clicked(self):
         self.LogL1.setText('')
@@ -578,6 +641,33 @@ class MainWindow(QtWidgets.QMainWindow):
     def calib_clicked(self):
         self.dialog = calibUI(self)
         self.dialog.show()
+
+
+
+    # def deleteLaterGroupBox(self):
+    #     count = self.ControlLayout.count()
+    #     if count == 1:
+    #         return
+    #     item = self.ControlLayout.itemAt(count - 2)
+    #     widget = item.widget()
+    #     # print(item)
+    #     widget.deleteLater()
+
+    # def removeItemGroupBox(self):
+    #     count = self.scrollAreaWidgetLayout.count()
+    #     if count == 1:
+    #         return
+    #     item = self.scrollAreaWidgetLayout.itemAt(count - 2)
+
+    #     self.value1.setText(item.widget().children()[2].text())
+        
+    # def removeWidgetGroupBox(self):
+    #     count = self.scrollAreaWidgetLayout.count()
+    #     if count == 1:
+    #         return
+    #     item = self.scrollAreaWidgetLayout.itemAt(count - 2)
+
+    #     self.value2.setText(item.widget().children()[3].text())
         
 def main():
     
