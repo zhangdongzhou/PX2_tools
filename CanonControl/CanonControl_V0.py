@@ -7,7 +7,7 @@
 # WARNING! All changes made in this file will be lost!
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-import requests
+import requests, re
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -41,7 +41,6 @@ class Ui_MainWindow(object):
         self.verticalSlider_2.setGeometry(QtCore.QRect(460, 80, 22, 160))
         self.verticalSlider_2.setMinimum(-9000)
         self.verticalSlider_2.setMaximum(1000)
-        self.verticalSlider_2.setProperty("value", -3000)
         self.verticalSlider_2.setOrientation(QtCore.Qt.Vertical)
         self.verticalSlider_2.setObjectName("verticalSlider_2")
         self.label = QtWidgets.QLabel(self.centralwidget)
@@ -72,6 +71,7 @@ class Ui_MainWindow(object):
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
         
+        ############## logic
         self.horizontalSlider.valueChanged.connect(self.changePTZ)
         self.verticalSlider.valueChanged.connect(self.changePTZ)
         self.verticalSlider_2.valueChanged.connect(self.changePTZ)
@@ -89,7 +89,31 @@ class Ui_MainWindow(object):
         self.label_4.setText(_translate("MainWindow", "Pan"))
         self.label_5.setText(_translate("MainWindow", "Tilt"))
         self.label_6.setText(_translate("MainWindow", "Zoom"))
+        
+        ############# initialize
+        usr = self.lineEdit_2.text()
+        pwd = self.lineEdit_3.text()
+        ip  = self.lineEdit.text()
+        url = 'http://'+usr+':'+pwd+'@'+ip+':80/-wvhttp-01-/CameraPosition?'
+        req1 = requests.get(url)
+        for line in req1.text.splitlines():
+            if re.match(r'pan_current_value',line):
+                tmp = re.findall(r'-?\d+',line)
+                pan = tmp[0]
+                self.horizontalSlider.setProperty("value", int(pan))
+            if re.match(r'tilt_current_value',line):
+                tmp = re.findall(r'-?\d+',line)
+                tilt = tmp[0]
+                self.verticalSlider_2.setProperty("value", int(tilt))
+            if re.match(r'zoom_current_value',line):
+                tmp = re.findall(r'-?\d+',line)
+                zoom = tmp[0]
+                self.verticalSlider.setProperty("value", int(zoom))
+                
+                
+            
     
+    ############## function
     def changePTZ(self):
         usr = self.lineEdit_2.text()
         pwd = self.lineEdit_3.text()
