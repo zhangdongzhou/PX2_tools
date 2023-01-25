@@ -22,6 +22,9 @@ class Ui_MainWindow(object):
         self.lineEdit_2.setGeometry(QtCore.QRect(410, 40, 113, 20))
         self.lineEdit_2.setObjectName("lineEdit_2")
         self.lineEdit_3 = QtWidgets.QLineEdit(self.centralwidget)
+        ############### password protect
+        self.lineEdit_3.setEchoMode(QtWidgets.QLineEdit.Password)
+        ###############
         self.lineEdit_3.setGeometry(QtCore.QRect(580, 40, 113, 20))
         self.lineEdit_3.setInputMask("")
         self.lineEdit_3.setObjectName("lineEdit_3")
@@ -63,7 +66,7 @@ class Ui_MainWindow(object):
         self.label_5.setAlignment(QtCore.Qt.AlignCenter)
         self.label_5.setObjectName("label_5")
         self.label_6 = QtWidgets.QLabel(self.centralwidget)
-        self.label_6.setGeometry(QtCore.QRect(560, 150, 47, 13))
+        self.label_6.setGeometry(QtCore.QRect(560, 100, 47, 120))
         self.label_6.setAlignment(QtCore.Qt.AlignCenter)
         self.label_6.setObjectName("label_6")
         MainWindow.setCentralWidget(self.centralwidget)
@@ -88,7 +91,7 @@ class Ui_MainWindow(object):
         self.label_3.setText(_translate("MainWindow", "Password"))
         self.label_4.setText(_translate("MainWindow", "Pan"))
         self.label_5.setText(_translate("MainWindow", "Tilt"))
-        self.label_6.setText(_translate("MainWindow", "Zoom"))
+        self.label_6.setText(_translate("MainWindow", "Out\n\n\nZoom\n\n\nIn"))
         
         ############# initialize
         usr = self.lineEdit_2.text()
