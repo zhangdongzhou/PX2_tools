@@ -11,12 +11,7 @@ from epics import caput, caget
 import time
 import re
 
-###### Dummy section, remove in real code
-dummynum1 = 0.01
-dummynum2 = 0.03
-dummynum3 = 0.04
-dummystr1 = 'dummy/path/place/holder'
-dummystr2 = 'checked'
+
 
 tick = 0.5
 folder='13PIL1MSi:cam1:FilePath'
