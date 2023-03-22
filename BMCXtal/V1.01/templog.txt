@@ -1,0 +1,472 @@
+Mon Mar 13 01:22:00 2023
+    Move to XRAY: -0.384, -0.510, -5.104
+Mon Mar 13 00:05:28 2023
+    scan00011 done, saved in folder: PhCSS_2
+Mon Mar 13 00:03:15 2023
+    Move to sample: 0.217, 0.291, -3.831
+Mon Mar 13 00:00:08 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 23:59:34 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 23:59:03 2023
+    scan00010 done, saved in folder: PhCSS_2
+Sun Mar 12 23:56:50 2023
+    Move to sample: 0.217, 0.291, -3.831
+Sun Mar 12 23:50:18 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 23:49:05 2023
+    scan00009 done, saved in folder: PhCSS_2
+Sun Mar 12 23:46:52 2023
+    Move to sample: 0.217, 0.291, -3.831
+Sun Mar 12 23:45:04 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 23:42:18 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 23:41:44 2023
+    scan00008 done, saved in folder: PhCSS_2
+Sun Mar 12 23:39:31 2023
+    Move to sample: 0.217, 0.291, -3.831
+Sun Mar 12 23:38:47 2023
+    Move to ruby2: 0.217, 0.291, -3.751
+Sun Mar 12 23:34:44 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 23:33:49 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 23:32:56 2023
+    scan00007 done, saved in folder: PhCSS_2
+Sun Mar 12 23:30:43 2023
+    Move to sample: 0.217, 0.291, -3.831
+Sun Mar 12 23:26:48 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 23:26:03 2023
+    scan00006 done, saved in folder: PhCSS_2
+Sun Mar 12 23:23:50 2023
+    Move to sample: 0.217, 0.291, -3.831
+Sun Mar 12 23:23:08 2023
+    Move to Center: 0.217, 0.281, -3.841
+Sun Mar 12 23:18:11 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 23:17:12 2023
+    scan00005 done, saved in folder: PhCSS_2
+Sun Mar 12 23:14:59 2023
+    Move to Center: 0.217, 0.281, -3.841
+Sun Mar 12 23:11:05 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 23:10:24 2023
+    Move to ruby2: 0.217, 0.291, -3.751
+Sun Mar 12 23:09:41 2023
+    scan00004 done, saved in folder: PhCSS_2
+Sun Mar 12 23:07:48 2023
+    Move to Center: 0.217, 0.281, -3.841
+Sun Mar 12 23:05:22 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 23:04:28 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 23:03:29 2023
+    scan00003 done, saved in folder: PhCSS_2
+Sun Mar 12 23:01:37 2023
+    Move to Center: 0.217, 0.281, -3.841
+Sun Mar 12 22:57:26 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 22:45:47 2023
+    scan00002 done, saved in folder: PhCSS_2
+Sun Mar 12 22:43:54 2023
+    Move to Center: 0.217, 0.281, -3.841
+Sun Mar 12 22:05:32 2023
+    Move to ruby1: 0.217, 0.231, -3.831
+Sun Mar 12 22:02:30 2023
+    scan00001 done, saved in folder: PhCSS_2
+Sun Mar 12 22:00:37 2023
+    Move to Center: 0.217, 0.281, -3.841
+Sun Mar 12 22:00:20 2023
+    Move to Center: 0.217, 0.281, -3.841
+Sun Mar 12 21:59:57 2023
+    New data will be saved in folder: PhCSS_2
+Sun Mar 12 21:59:56 2023
+    New data will be saved in folder: PhCSS_1
+Sun Mar 12 21:18:45 2023
+    scan00041 done, saved in folder: PhNTI_1
+Sun Mar 12 21:16:35 2023
+    Move to sample: -0.239, 0.048, -3.780
+Sun Mar 12 21:09:50 2023
+    scan00040 done, saved in folder: PhNTI_1
+Sun Mar 12 21:07:37 2023
+    Move to sample: -0.239, 0.048, -3.780
+Sun Mar 12 20:58:05 2023
+    scan00039 done, saved in folder: PhNTI_1
+Sun Mar 12 20:55:24 2023
+    Move to sample: -0.239, 0.048, -3.790
+Sun Mar 12 20:54:22 2023
+    scan00038 done, saved in folder: PhNTI_1
+Sun Mar 12 20:51:42 2023
+    Move to sample: -0.239, 0.048, -3.790
+Sun Mar 12 20:50:57 2023
+    scan00037 done, saved in folder: PhNTI_1
+Sun Mar 12 20:50:26 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 20:49:05 2023
+    scan00036 done, saved in folder: PhNTI_1
+Sun Mar 12 20:48:45 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 20:47:15 2023
+    scan00035 done, saved in folder: PhNTI_1
+Sun Mar 12 20:45:22 2023
+    Move to sample: -0.239, 0.048, -3.790
+Sun Mar 12 20:43:31 2023
+    scan00034 done, saved in folder: PhNTI_1
+Sun Mar 12 20:41:20 2023
+    Move to sample: -0.239, 0.048, -3.780
+Sun Mar 12 20:40:45 2023
+    scan00033 done, saved in folder: PhNTI_1
+Sun Mar 12 20:40:24 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 20:39:18 2023
+    scan00032 done, saved in folder: PhNTI_1
+Sun Mar 12 20:38:58 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 20:37:11 2023
+    scan00031 done, saved in folder: PhNTI_1
+Sun Mar 12 20:36:41 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 20:34:38 2023
+    scan00030 done, saved in folder: PhNTI_1
+Sun Mar 12 20:34:07 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 20:32:12 2023
+    scan00029 done, saved in folder: PhNTI_1
+Sun Mar 12 20:30:02 2023
+    Move to sample: -0.239, 0.048, -3.780
+Sun Mar 12 20:27:56 2023
+    scan00028 done, saved in folder: PhNTI_1
+Sun Mar 12 20:26:29 2023
+    Move to sample: -0.239, 0.048, -3.780
+Sun Mar 12 20:23:32 2023
+    Move to center: -0.239, 0.048, -3.790
+Sun Mar 12 20:14:56 2023
+    scan00027 done, saved in folder: PhNTI_1
+Sun Mar 12 20:13:30 2023
+    Move to sample: -0.239, 0.048, -3.780
+Sun Mar 12 20:12:32 2023
+    scan00026 done, saved in folder: PhNTI_1
+Sun Mar 12 20:12:09 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 19:00:06 2023
+    Move to Ruby: -0.239, 0.068, -3.740
+Sun Mar 12 18:57:48 2023
+    Move to Ruby: -0.239, 0.068, -3.740
+Sun Mar 12 18:37:13 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 18:35:03 2023
+    scan00025 done, saved in folder: PhNTI_1
+Sun Mar 12 18:34:40 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 18:33:41 2023
+    scan00024 done, saved in folder: PhNTI_1
+Sun Mar 12 18:33:21 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 18:30:43 2023
+    scan00023 done, saved in folder: PhNTI_1
+Sun Mar 12 18:30:23 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 18:29:07 2023
+    scan00022 done, saved in folder: PhNTI_1
+Sun Mar 12 18:27:41 2023
+    Move to sample: -0.239, 0.048, -3.780
+Sun Mar 12 18:26:48 2023
+    scan00021 done, saved in folder: PhNTI_1
+Sun Mar 12 18:26:27 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 18:25:03 2023
+    scan00020 done, saved in folder: PhNTI_1
+Sun Mar 12 18:24:40 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 18:23:17 2023
+    Move to Ruby: -0.239, 0.068, -3.740
+Sun Mar 12 18:21:46 2023
+    Move to Ruby: -0.239, 0.068, -3.740
+Sun Mar 12 18:18:21 2023
+    scan00019 done, saved in folder: PhNTI_1
+Sun Mar 12 18:17:11 2023
+    Move to sample: -0.239, 0.048, -3.780
+Sun Mar 12 18:15:38 2023
+    scan00018 done, saved in folder: PhNTI_1
+Sun Mar 12 18:15:16 2023
+    Move to Au: -0.239, 0.078, -3.790
+Sun Mar 12 18:14:35 2023
+    Move to Au: -0.239, 0.078, -3.800
+Sun Mar 12 18:11:59 2023
+    Move to Ruby: -0.239, 0.068, -3.740
+Sun Mar 12 18:09:19 2023
+    scan00017 done, saved in folder: PhNTI_1
+Sun Mar 12 18:08:06 2023
+    Move to sample: -0.239, 0.048, -3.780
+Sun Mar 12 18:06:27 2023
+    scan00016 done, saved in folder: PhNTI_1
+Sun Mar 12 18:05:01 2023
+    Move to sample: -0.239, 0.048, -3.790
+Sun Mar 12 18:03:49 2023
+    scan00015 done, saved in folder: PhNTI_1
+Sun Mar 12 18:03:26 2023
+    Move to Au: -0.239, 0.078, -3.800
+Sun Mar 12 17:59:15 2023
+    Move to Ruby: -0.239, 0.078, -3.740
+Sun Mar 12 17:57:43 2023
+    scan00014 done, saved in folder: PhNTI_1
+Sun Mar 12 17:56:17 2023
+    Move to sample: -0.239, 0.048, -3.790
+Sun Mar 12 17:54:54 2023
+    scan00013 done, saved in folder: PhNTI_1
+Sun Mar 12 17:54:32 2023
+    Move to Au: -0.239, 0.078, -3.800
+Sun Mar 12 17:49:22 2023
+    Move to Ruby: -0.239, 0.078, -3.730
+Sun Mar 12 17:49:17 2023
+    Move to Au: -0.239, 0.078, -3.800
+Sun Mar 12 17:48:23 2023
+    scan00012 done, saved in folder: PhNTI_1
+Sun Mar 12 17:46:57 2023
+    Move to sample: -0.239, 0.048, -3.790
+Sun Mar 12 17:45:48 2023
+    scan00011 done, saved in folder: PhNTI_1
+Sun Mar 12 17:45:25 2023
+    Move to Au: -0.239, 0.078, -3.800
+Sun Mar 12 17:37:53 2023
+    Move to Ruby: -0.239, 0.078, -3.730
+Sun Mar 12 17:37:01 2023
+    scan00010 done, saved in folder: PhNTI_1
+Sun Mar 12 17:35:35 2023
+    Move to sample: -0.239, 0.048, -3.790
+Sun Mar 12 17:33:53 2023
+    scan00009 done, saved in folder: PhNTI_1
+Sun Mar 12 17:33:31 2023
+    Move to Au: -0.239, 0.078, -3.800
+Sun Mar 12 17:29:39 2023
+    Move to Ruby: -0.239, 0.078, -3.730
+Sun Mar 12 17:29:33 2023
+    Move to Au: -0.239, 0.078, -3.800
+Sun Mar 12 17:28:47 2023
+    Move to Ruby: -0.239, 0.078, -3.730
+Sun Mar 12 17:26:48 2023
+    scan00008 done, saved in folder: PhNTI_1
+Sun Mar 12 17:25:22 2023
+    Move to sample: -0.239, 0.048, -3.790
+Sun Mar 12 17:24:14 2023
+    scan00007 done, saved in folder: PhNTI_1
+Sun Mar 12 17:23:51 2023
+    Move to Au: -0.239, 0.078, -3.800
+Sun Mar 12 17:19:21 2023
+    Move to Ruby: -0.239, 0.078, -3.730
+Sun Mar 12 17:19:16 2023
+    Move to Au: -0.239, 0.078, -3.800
+Sun Mar 12 17:17:34 2023
+    scan00006 done, saved in folder: PhNTI_1
+Sun Mar 12 17:16:08 2023
+    Move to sample: -0.239, 0.058, -3.800
+Sun Mar 12 17:14:49 2023
+    scan00005 done, saved in folder: PhNTI_1
+Sun Mar 12 17:14:26 2023
+    Move to Au: -0.239, 0.078, -3.800
+Sun Mar 12 17:13:51 2023
+    Move to Au: -0.239, 0.088, -3.800
+Sun Mar 12 17:09:36 2023
+    Move to Ruby: -0.239, 0.078, -3.730
+Sun Mar 12 17:07:21 2023
+    scan00004 done, saved in folder: PhNTI_1
+Sun Mar 12 17:05:11 2023
+    Move to sample: -0.239, 0.058, -3.800
+Sun Mar 12 17:03:45 2023
+    scan00003 done, saved in folder: PhNTI_1
+Sun Mar 12 17:03:22 2023
+    Move to Au: -0.239, 0.088, -3.800
+Sun Mar 12 16:50:37 2023
+    Move to Ruby: -0.239, 0.058, -3.800
+Sun Mar 12 16:48:10 2023
+    scan00002 done, saved in folder: PhNTI_1
+Sun Mar 12 16:47:00 2023
+    Move to sample: -0.239, 0.058, -3.800
+Sun Mar 12 16:43:41 2023
+    scan00001 done, saved in folder: PhNTI_1
+Sun Mar 12 16:43:18 2023
+    Move to Au: -0.239, 0.088, -3.800
+Sun Mar 12 16:42:57 2023
+    Move to sample: -0.239, 0.058, -3.800
+Sun Mar 12 16:42:49 2023
+    Move to : -0.239, 0.048, -3.770
+Sun Mar 12 16:34:22 2023
+    Move to center: -0.239, 0.048, -3.790
+Sun Mar 12 16:19:26 2023
+    New data will be saved in folder: PhNTI_1
+Sun Mar 12 16:02:26 2023
+    scan00043 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 16:02:05 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 15:57:51 2023
+    scan00042 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 15:56:41 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 15:56:02 2023
+    scan00041 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 15:55:42 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 15:52:00 2023
+    scan00040 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 15:50:49 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 15:49:31 2023
+    scan00039 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 15:49:11 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 15:44:33 2023
+    scan00038 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 15:43:23 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 15:42:34 2023
+    scan00037 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 15:42:11 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 15:31:09 2023
+    scan00036 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 15:30:47 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 15:22:05 2023
+    scan00035 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 15:21:42 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 15:00:47 2023
+    scan00034 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:59:36 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 14:59:13 2023
+    scan00033 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:58:50 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:57:29 2023
+    scan00032 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:57:08 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:55:49 2023
+    scan00031 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:55:26 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:53:13 2023
+    scan00030 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:52:03 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 14:51:27 2023
+    scan00029 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:51:05 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:48:51 2023
+    scan00028 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:47:41 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 14:46:43 2023
+    scan00027 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:46:20 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:44:27 2023
+    scan00026 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:43:16 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 14:42:29 2023
+    scan00025 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:42:07 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:39:21 2023
+    scan00024 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:38:10 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 14:35:43 2023
+    scan00023 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:35:20 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:32:56 2023
+    scan00022 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:31:46 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 14:30:56 2023
+    scan00021 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:30:33 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:29:17 2023
+    scan00020 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:28:56 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:25:33 2023
+    scan00019 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:25:11 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:23:23 2023
+    scan00018 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:22:13 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 14:21:13 2023
+    scan00017 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:20:52 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:18:14 2023
+    scan00016 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:17:51 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:14:49 2023
+    scan00015 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:13:39 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 14:12:43 2023
+    scan00014 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:11:31 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:07:18 2023
+    scan00013 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:06:08 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 14:05:47 2023
+    scan00012 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:05:24 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:04:33 2023
+    scan00011 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:04:11 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:02:21 2023
+    scan00010 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 14:02:00 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 14:00:11 2023
+    scan00009 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 13:59:50 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 13:58:09 2023
+    scan00008 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 13:57:48 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 13:56:09 2023
+    scan00007 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 13:55:46 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 13:53:53 2023
+    scan00006 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 13:53:31 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 13:51:29 2023
+    scan00005 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 13:51:07 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 13:45:23 2023
+    scan00004 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 13:44:13 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 13:39:40 2023
+    scan00003 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 13:39:19 2023
+    Move to S: 0.145, -0.946, -3.835
+Sun Mar 12 13:39:15 2023
+    scan00002 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 13:38:55 2023
+    Move to Au: 0.145, -0.966, -3.855
+Sun Mar 12 13:38:51 2023
+    scan00001 done, saved in folder: Cell9NCSO_1
+Sun Mar 12 13:38:28 2023
+    Move to center: 0.145, -0.956, -3.845
+Sun Mar 12 13:38:22 2023
+    New data will be saved in folder: Cell9NCSO_1

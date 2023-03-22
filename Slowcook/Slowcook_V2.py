@@ -315,6 +315,8 @@ class MainWindow(QtWidgets.QMainWindow):
             boxlist = self.ControlWidget.children()[1::]
             self.warn1.setText('BUSY')
             self.warn1.setStyleSheet('color: red')
+            QtWidgets.QApplication.processEvents()
+            
             for item in boxlist:
                 
                 # item.children()[1].setText(str(dummynum2))
@@ -350,6 +352,7 @@ class MainWindow(QtWidgets.QMainWindow):
                         logf.write(tmptim+'|'+str(tmptemp)+'|'+tmpname+'\n')
                         LogS = LogS+tmptim+'\ntemperature: '+str(tmptemp)+' '+tmpname+'\n'
                         self.LogL1.setText(LogS)
+                        QtWidgets.QApplication.processEvents()
             
             logf.close()
             caput("13USB2408_1:PID1.FBON",0)

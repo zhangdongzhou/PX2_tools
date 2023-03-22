@@ -71,7 +71,7 @@ class Logic_MainWindow(QtWidgets.QMainWindow, mainW):
             self.Notes.setText('V low limit error')
         elif Y_srt >= YU or Y_end >= YU:
             self.Notes.setText('V high limit error')
-        elif self.Vmotor.text()=='13BMC:m45' and np.abs(Phi-90)>1.5:
+        elif self.Vmotor.text()=='13BMC:m45' and np.abs(Phi-90)>1.5 and np.abs(Phi+90)>1.5:
             self.Notes.setText('Check phi angle')
         elif self.Vmotor.text()=='13BMC:m44' and np.abs(Phi-0)>1.5:
             self.Notes.setText('Check phi angle')
