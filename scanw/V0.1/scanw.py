@@ -183,7 +183,7 @@ class MainWindow(QtWidgets.QMainWindow):
         
         
         self.setLayout(self.lay_2)
-        
+        self.globaldelay = 0.15
         self.globalflag = 1
         
         self.readlog()
@@ -360,7 +360,7 @@ class MainWindow(QtWidgets.QMainWindow):
                 acce = caget(motorA)
                 ran = float(self.MotorR.text())
                 nop = float(self.NoP.text())
-                ttp = 4*ran/speed+nop*(tim+0.15)+(nop+1)*(acce+0.15)
+                ttp = 4*ran/speed+nop*(tim+self.globaldelay)+(nop+1)*(acce+self.globaldelay)
                 self.TtP.setText(str(round(ttp,2)))
     
     def selectfolder(self):
@@ -381,14 +381,14 @@ class MainWindow(QtWidgets.QMainWindow):
         Ttotal = self.movemotortime(end)
         motor = self.MotorN.text()+'.VAL'
         caput(motor, end)
-        time.sleep(Ttotal+0.15)
+        time.sleep(Ttotal+self.globaldelay)
         
     def count(self, Tstep):
         scalerT = self.ScalerN.text()+'.TP'
         caput(scalerT, Tstep)
         scaler = self.ScalerN.text()+'.CNT'
         caput(scaler, 1)
-        time.sleep(Tstep+0.15)
+        time.sleep(Tstep+self.globaldelay)
         scalerV = self.ScalerN.text()+'.'+self.ScalerC.text()
         return (caget(scalerV))
 
