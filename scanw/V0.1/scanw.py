@@ -227,6 +227,8 @@ class MainWindow(QtWidgets.QMainWindow):
         self.clickcount = 0
         self.clickcountlimit = 1
         self.value = []
+        self.xplt = []
+        self.yplt = []
         self.cidpress = self.canvasp.mpl_connect('button_press_event', self.one_click)
         if self.clickcount > 0:
             self.canvasp.mpl_disconnect(self.cidpress)
@@ -236,6 +238,8 @@ class MainWindow(QtWidgets.QMainWindow):
         self.clickcount = 0
         self.clickcountlimit = 2
         self.value = []
+        self.xplt = []
+        self.yplt = []
         self.cidpress = self.canvasp.mpl_connect('button_press_event', self.one_click)
         if self.clickcount > 0:
             self.canvasp.mpl_disconnect(self.cidpress)
@@ -250,12 +254,14 @@ class MainWindow(QtWidgets.QMainWindow):
                   y1 = self.ax.get_ylim()[1]
                   self.ax.plot([x0,x1],[y,y],'r-')
                   self.ax.plot([x,x],[y0,y1],'r-')
+                  self.xplt.append(x)
+                  self.yplt.append(y)
+                  self.ax.plot(self.xplt,self.yplt,'r:')
                   self.ax.set_xlim([x0, x1])
                   self.ax.set_ylim([y0, y1])
                   self.area_plot.figure.canvas.draw()
                   self.clickcount = self.clickcount+1
                   self.value.append(x)
-                  
           else:
               Motor = self.ax.get_xlabel()[0:-4] # 13BMC:m44, no ".VAL"
               Motorval = Motor + '.VAL'
@@ -483,7 +489,6 @@ class MainWindow(QtWidgets.QMainWindow):
                     xgoal1 = caget(self.MotorN.text()+'.RBV')
                     x_axis.append(xgoal1)
                     ygoal = self.count(tstep)
-                    # print(ygoal)
                     y_axis.append(ygoal)
                     self.graph_update(x_axis, y_axis)
             caput(shutter,0)
