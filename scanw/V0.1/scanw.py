@@ -2,11 +2,10 @@
 """
 Created on Sun Sep  1 21:51:17 2024
 
-@author: Dongzhou_X99
+@author: Dongzhou Zhang
 """
 import sys
 import os
-# import matplotlib.pyplot as plt
 import matplotlib
 from PyQt5 import QtCore, QtWidgets, QtGui
 from matplotlib.backends.backend_qt5agg import (
@@ -90,10 +89,6 @@ class MainWindow(QtWidgets.QMainWindow):
         self.L8.setFont(font)
         self.CWLayout.addWidget(self.L8, 2, 0, 1, 1)
         
-        # self.L9 = QtWidgets.QLabel("Directory", self.CW)
-        # self.L9.setFont(font)
-        # self.CWLayout.addWidget(self.L9, 2, 3, 1, 5)
-        
         self.DirectoryB = QtWidgets.QPushButton('Directory', self.CW)
         self.DirectoryB.setFont(QtGui.QFont('Arial', 14))
         self.CWLayout.addWidget(self.DirectoryB, 2, 3, 1, 1)
@@ -168,8 +163,6 @@ class MainWindow(QtWidgets.QMainWindow):
         self.groupbox = QtWidgets.QGroupBox()
         self.lay_2 = QtWidgets.QVBoxLayout()
         
-        # x_axis = np.loadtxt('dummy.txt')[:,0]
-        # y_axis = np.loadtxt('dummy.txt')[:,1]
         x_axis = np.array([0])
         y_axis = np.array([0])
 
@@ -190,10 +183,9 @@ class MainWindow(QtWidgets.QMainWindow):
         
         
         self.setLayout(self.lay_2)
-        # self.X = []
-        # self.Y = []
+        
         self.globalflag = 1
-        # self.data = np.loadtxt('dummy.txt')
+        
         self.readlog()
         try:
             self.plotscan()
@@ -203,18 +195,7 @@ class MainWindow(QtWidgets.QMainWindow):
 
         self.setCentralWidget(self.CW)        
 
-        # self.checkThreadTimer = QtCore.QTimer(self)
-        # print(self.checkThreadTimer.isActive())
-        # self.checkThreadTimer.start()
-        # self.checkThreadTimer.setInterval(500) #.5 seconds
-        # self.checkThreadTimer.setSingleShot(False)
-        # self.checkThreadTimer.timeout.connect(self.readListValues)
-        # self.checkThreadTimer.timeout.connect(self.graph_update)
-        # self.slider.valueChanged[int].connect(self.graph_uptade)
-        # self.checkThreadTimer.stop()
-       
-        # self.canvasp.mpl_connect('button_press_event', self.one_click)
-        # self.ScalerN.returnPressed.connect(self.ScalerNupdate)
+        
         self.MotorR.returnPressed.connect(self.MotorRupdate)
         self.NoP.returnPressed.connect(self.NoPupdate)
         self.ScanB.clicked.connect(self.scanclick)
@@ -228,19 +209,10 @@ class MainWindow(QtWidgets.QMainWindow):
         self.MoveB.clicked.connect(self.MoveFun)
         self.TpP.returnPressed.connect(self.TtPupdate)
 
-    # def ScalerNupdate(self):
-        # print(self.ScalerN.text())
     
-
     def graph_update(self, x_axis, y_axis):
-        # self.checkThreadTimer.start()
+        
         QtWidgets.QApplication.processEvents()
-        # self.X.append(self.data[self.i,0])
-        # self.Y.append(self.data[self.i,1])
-        # x_axis = self.X
-        # y_axis = self.Y
-        # time.sleep(0.5)
-        # print(time.time())
         self.ax.cla()
         self.ax.plot(x_axis, y_axis, 'r')
         xlabel = self.MotorN.text()+'.RBV'
@@ -249,66 +221,29 @@ class MainWindow(QtWidgets.QMainWindow):
         self.ax.set_ylabel(ylabel)
         self.ax.set_title(self.File.text())
         self.area_plot.figure.canvas.draw()
-       # if self.dataWasReadEvent.is_set():
-           # self.dataWasReadEvent.clear() 
-       # self.checkThreadTimer.start()
-       # while self.i<11:
-       #      # self.checkThreadTimer.start()
-       #      QtWidgets.QApplication.processEvents()
-       #      self.X.append(self.data[self.i,0])
-       #      self.Y.append(self.data[self.i,1])
-       #      x_axis = self.X
-       #      y_axis = self.Y
-       #      time.sleep(0.5)
-       #      print(time.time())
-       #      self.ax.cla()
-       #      self.ax.plot(x_axis, y_axis, 'r')
-       #      self.area_plot.figure.canvas.draw()
-           
-       #      self.i = self.i+1
-            # self.canvas.draw()
-            # self.canvas.repaint()
-        # self.checkThreadTimer.stop()
-        
+      
     def oneclick(self):
         self.plotscan()
         self.clickcount = 0
         self.clickcountlimit = 1
-        # self.L13.setText('aaaaaa')
         self.value = []
         self.cidpress = self.canvasp.mpl_connect('button_press_event', self.one_click)
-        # print(self.value)
-        # a = self.on_click('button_press_event')
-        # print(a)
         if self.clickcount > 0:
-            # self.L13.setText(str(np.mean(self.value)))
-            # print(self.value)
-            # self.L13.setText(str(self.value))
             self.canvasp.mpl_disconnect(self.cidpress)
     
     def twoclick(self):
         self.plotscan()
         self.clickcount = 0
         self.clickcountlimit = 2
-        # self.L13.setText('aaaaaa')
         self.value = []
         self.cidpress = self.canvasp.mpl_connect('button_press_event', self.one_click)
-        # print(self.value)
-        # a = self.on_click('button_press_event')
-        # print(a)
         if self.clickcount > 0:
-            # self.L13.setText(str(np.mean(self.value)))
-            # print(self.value)
-            # self.L13.setText(str(self.value))
             self.canvasp.mpl_disconnect(self.cidpress)
         
     def one_click(self, event):
-          # self.canvasp.mpl_connect('button_press_event', self)
-          # print(self.i)
           if self.clickcount < self.clickcountlimit:
               if event.inaxes is not None:
                   x, y = event.xdata, event.ydata
-                  # print(x, y)
                   x0 = self.ax.get_xlim()[0]
                   x1 = self.ax.get_xlim()[1]
                   y0 = self.ax.get_ylim()[0]
@@ -319,17 +254,15 @@ class MainWindow(QtWidgets.QMainWindow):
                   self.ax.set_ylim([y0, y1])
                   self.area_plot.figure.canvas.draw()
                   self.clickcount = self.clickcount+1
-                  
                   self.value.append(x)
-                  # self.L13.setText(np.mean(self.value))
-                  # print(self.value)
+                  
           else:
               Motor = self.ax.get_xlabel()[0:-4] # 13BMC:m44, no ".VAL"
               Motorval = Motor + '.VAL'
               MotorN = Motor + ' to'
               self.L14.setText(MotorN)
               self.L13.setText(str(round(np.mean(self.value),3)))
-                  # print(x1)
+                  
                   
     def MoveFun(self):
         Motor = self.ax.get_xlabel()[0:-4] # 13BMC:m44, no ".VAL"
@@ -385,7 +318,6 @@ class MainWindow(QtWidgets.QMainWindow):
         try:
             val = float(self.MotorR.text())
         except:
-            # self.MotorR.setStyleSheet("color: red;")
             self.MotorR.setText('')
             self.Step.setText('')
             self.globalflag = 0
@@ -399,7 +331,6 @@ class MainWindow(QtWidgets.QMainWindow):
         try:
             val = int(self.NoP.text())
         except:
-            # self.NoP.setStyleSheet("color: red;")
             self.NoP.setText('')
             self.Step.setText('')
             self.globalflag = 0
@@ -412,10 +343,6 @@ class MainWindow(QtWidgets.QMainWindow):
             else:
                 self.updatestepsize()
                 self.TtPupdate()
-    
-    # def checktime(self):
-        
-            
 
     def TtPupdate(self):
         self.TpP.setStyleSheet("color: black;")
