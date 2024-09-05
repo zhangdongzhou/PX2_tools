@@ -20,6 +20,8 @@ Components:
   -DACAxis: Calculator that can get the Miller indices of the crystal along the X-ray direction, which is needed for Brillouin experiment. Works with both ATREX/RSV and APEX p4p files. Requires Python3, PyQt5, regex.
   
   -PilatusMerge: Merge Pilatus images to remove the blanks. Uses the same calibration as Dioptas. Requires fabio and pyFAI.
+  
+  -Scanw: a copycat of the GSECARS IDL-based ScanW 1-D scanning software, but in python.
 
   ### Notes on Python environment
   
