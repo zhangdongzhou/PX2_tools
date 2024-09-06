@@ -21,7 +21,7 @@ Components:
   
   -PilatusMerge: Merge Pilatus images to remove the blanks. Uses the same calibration as Dioptas. Requires fabio and pyFAI.
   
-  -Scanw: a copycat of the GSECARS IDL-based ScanW 1-D scanning software, but in python.
+  -Scanw: a copycat of the GSECARS IDL-based ScanW 1-D scanning software, but in python. It drives 1 EPICS motor and reads one EPICS scaler/detector. Requires Python3, pyEPICS and PyQt5.
 
   ### Notes on Python environment
   
