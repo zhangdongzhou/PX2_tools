@@ -245,6 +245,9 @@ class MainWindow(QtWidgets.QMainWindow):
         self.area_plot.figure.canvas.draw()
       
     def oneclick(self):
+        if self.L13.text() != '':
+            self.L14.setText('')
+            self.L13.setText('')
         if self.deriflag  == 0:
             self.plotscan()
         else:
@@ -257,8 +260,16 @@ class MainWindow(QtWidgets.QMainWindow):
         self.cidpress = self.canvasp.mpl_connect('button_press_event', self.one_click)
         if self.clickcount > 0:
             self.canvasp.mpl_disconnect(self.cidpress)
+        # Motor = self.ax.get_xlabel()[0:-4] # 13BMC:m44, no ".VAL"
+        # Motorval = Motor + '.VAL'
+        # MotorN = Motor + ' to'
+        # self.L14.setText(MotorN)
+        # self.L13.setText(str(round(np.mean(self.value),3)))
     
     def twoclick(self):
+        if self.L13.text() != '':
+            self.L14.setText('')
+            self.L13.setText('')
         if self.deriflag  == 0:
             self.plotscan()
         else:
@@ -271,31 +282,36 @@ class MainWindow(QtWidgets.QMainWindow):
         self.cidpress = self.canvasp.mpl_connect('button_press_event', self.one_click)
         if self.clickcount > 0:
             self.canvasp.mpl_disconnect(self.cidpress)
+        # Motor = self.ax.get_xlabel()[0:-4] # 13BMC:m44, no ".VAL"
+        # Motorval = Motor + '.VAL'
+        # MotorN = Motor + ' to'
+        # self.L14.setText(MotorN)
+        # self.L13.setText(str(round(np.mean(self.value),3)))
         
     def one_click(self, event):
-          if self.clickcount < self.clickcountlimit:
-              if event.inaxes is not None:
-                  x, y = event.xdata, event.ydata
-                  x0 = self.ax.get_xlim()[0]
-                  x1 = self.ax.get_xlim()[1]
-                  y0 = self.ax.get_ylim()[0]
-                  y1 = self.ax.get_ylim()[1]
-                  self.ax.plot([x0,x1],[y,y],'r-')
-                  self.ax.plot([x,x],[y0,y1],'r-')
-                  self.xplt.append(x)
-                  self.yplt.append(y)
-                  self.ax.plot(self.xplt,self.yplt,'r:')
-                  self.ax.set_xlim([x0, x1])
-                  self.ax.set_ylim([y0, y1])
-                  self.area_plot.figure.canvas.draw()
-                  self.clickcount = self.clickcount+1
-                  self.value.append(x)
-          else:
-              Motor = self.ax.get_xlabel()[0:-4] # 13BMC:m44, no ".VAL"
-              Motorval = Motor + '.VAL'
-              MotorN = Motor + ' to'
-              self.L14.setText(MotorN)
-              self.L13.setText(str(round(np.mean(self.value),3)))
+        if self.clickcount < self.clickcountlimit:
+            if event.inaxes is not None:
+                x, y = event.xdata, event.ydata
+                x0 = self.ax.get_xlim()[0]
+                x1 = self.ax.get_xlim()[1]
+                y0 = self.ax.get_ylim()[0]
+                y1 = self.ax.get_ylim()[1]
+                self.ax.plot([x0,x1],[y,y],'r-')
+                self.ax.plot([x,x],[y0,y1],'r-')
+                self.xplt.append(x)
+                self.yplt.append(y)
+                self.ax.plot(self.xplt,self.yplt,'r:')
+                self.ax.set_xlim([x0, x1])
+                self.ax.set_ylim([y0, y1])
+                self.area_plot.figure.canvas.draw()
+                self.clickcount = self.clickcount+1
+                self.value.append(x)
+        else:
+            Motor = self.ax.get_xlabel()[0:-4] # 13BMC:m44, no ".VAL"
+            Motorval = Motor + '.VAL'
+            MotorN = Motor + ' to'
+            self.L14.setText(MotorN)
+            self.L13.setText(str(round(np.mean(self.value),4)))
                   
                   
     def MoveFun(self):
