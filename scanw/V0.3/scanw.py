@@ -392,9 +392,11 @@ class MainWindow(QtWidgets.QMainWindow):
                 speed = caget(motorS)
                 motorA = self.MotorN.text()+'.ACCL'
                 acce = caget(motorA)
+                motorA = self.MotorN.text()+'.BACC'
+                bacc = caget(motorA)
                 ran = float(self.MotorR.text())
                 nop = float(self.NoP.text())
-                ttp = 4*ran/speed+nop*(tim+self.globaldelay)+(nop+1)*(acce+self.globaldelay)
+                ttp = 4*ran/speed+nop*(tim+self.globaldelay)+(nop+1)*(acce+4*bacc+self.globaldelay)
                 self.TtP.setText(str(round(ttp,2)))
     
     def selectfolder(self):
@@ -410,7 +412,7 @@ class MainWindow(QtWidgets.QMainWindow):
         acce = caget(motorA)
         motorBA = self.MotorN.text()+'.BACC'
         bacc = caget(motorBA)
-        Ttotal = np.abs(end-start)/speed+acce+2*bacc
+        Ttotal = np.abs(end-start)/speed+acce+4*bacc
         return Ttotal
     
     def movemotor(self, end):

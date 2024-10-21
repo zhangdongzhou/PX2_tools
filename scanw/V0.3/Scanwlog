@@ -1,9 +1,9 @@
-13BMC:m71
-3
-31
-0.5
+13BMC:m46
+.1
+21
+1
 13BMC:scaler1
 T:/gpd_user/data/bmc/2024/run3/dac_setup/scans/
-scan_64
+scan_176
 13BMC:BenchAtten1
 S3
