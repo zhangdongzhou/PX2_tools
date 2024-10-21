@@ -260,11 +260,6 @@ class MainWindow(QtWidgets.QMainWindow):
         self.cidpress = self.canvasp.mpl_connect('button_press_event', self.one_click)
         if self.clickcount > 0:
             self.canvasp.mpl_disconnect(self.cidpress)
-        # Motor = self.ax.get_xlabel()[0:-4] # 13BMC:m44, no ".VAL"
-        # Motorval = Motor + '.VAL'
-        # MotorN = Motor + ' to'
-        # self.L14.setText(MotorN)
-        # self.L13.setText(str(round(np.mean(self.value),3)))
     
     def twoclick(self):
         if self.L13.text() != '':
@@ -282,11 +277,6 @@ class MainWindow(QtWidgets.QMainWindow):
         self.cidpress = self.canvasp.mpl_connect('button_press_event', self.one_click)
         if self.clickcount > 0:
             self.canvasp.mpl_disconnect(self.cidpress)
-        # Motor = self.ax.get_xlabel()[0:-4] # 13BMC:m44, no ".VAL"
-        # Motorval = Motor + '.VAL'
-        # MotorN = Motor + ' to'
-        # self.L14.setText(MotorN)
-        # self.L13.setText(str(round(np.mean(self.value),3)))
         
     def one_click(self, event):
         if self.clickcount < self.clickcountlimit:
