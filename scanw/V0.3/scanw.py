@@ -291,6 +291,8 @@ class MainWindow(QtWidgets.QMainWindow):
                 self.xplt.append(x)
                 self.yplt.append(y)
                 self.ax.plot(self.xplt,self.yplt,'r:')
+                avexplt = np.average(self.xplt)
+                self.ax.plot([avexplt,avexplt],[y0,y1],'r--')
                 self.ax.set_xlim([x0, x1])
                 self.ax.set_ylim([y0, y1])
                 self.area_plot.figure.canvas.draw()
