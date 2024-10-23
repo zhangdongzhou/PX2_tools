@@ -233,6 +233,9 @@ class MainWindow(QtWidgets.QMainWindow):
         self.selgroup = QtWidgets.QButtonGroup()
         self.selgroup.buttonClicked.connect(self.selgroup_clicked)
         self.movgroup = QtWidgets.QButtonGroup()
+        #
+        self.movgroup.buttonClicked.connect(self.movgroup_clicked)
+        #
         self.remgroup = QtWidgets.QButtonGroup()
         self.remgroup.buttonClicked.connect(self.remgroup_clicked)
 
@@ -282,6 +285,11 @@ class MainWindow(QtWidgets.QMainWindow):
         button.parent().children()[8].setText(strX)
         button.parent().children()[9].setText(strY)
         button.parent().children()[10].setText(strZ)
+        
+    def movgroup_clicked(self, button):
+        item = button.parent()
+        self.Mv_click(item.children()[8],item.children()[9],item.children()[10], item.children()[1], self.LogL1, 'templog.txt')
+        
 
    
     def Datacol_clicked(self):
