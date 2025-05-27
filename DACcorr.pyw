@@ -24,6 +24,7 @@ Issues:
 
 import sys
 from PyQt5.Qt import *
+from PyQt5.QtCore import QTimer
 import epics
 import math
  
@@ -72,9 +73,17 @@ class DACcorr(QMainWindow):
  
         self.setGeometry(300, 300, 530, 280)
         self.setWindowTitle('DAC correction')   
+        
+    def hide_button(self):
+        self.btn.hide()  # Hide the button
+        QTimer.singleShot(3000, self.show_button)  # Call show_button after 3 seconds
+
+    def show_button(self):
+        self.btn.show()  # Show the button again
 
     def updateUI(self):
         try:
+            self.hide_button()
             dphi = float(self.qle1.text())
             ctr = float(self.qle2.text())
             pls = float(self.qle3.text())
@@ -88,6 +97,7 @@ class DACcorr(QMainWindow):
             epics.caput('13BMC:m44.VAL',x_fin)
         except:
             self.lbl5.setText('Invalid values')
+    
                 
         
 def main():
