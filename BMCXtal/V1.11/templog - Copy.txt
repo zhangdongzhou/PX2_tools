@@ -1,0 +1,2652 @@
+Tue Apr 29 15:37:29 2025
+    Move to SampleCenter: -0.851, -0.621, -3.713
+Tue Apr 29 15:03:50 2025
+    scan00131 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 15:00:40 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 15:00:26 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 15:00:21 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 15:00:15 2025
+    Move to SampleCenter: -0.851, -0.621, -3.713
+Tue Apr 29 14:57:55 2025
+    scan00131 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:57:27 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 14:56:57 2025
+    scan00131 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:51:49 2025
+    Move to SampleCenter: -0.851, -0.621, -3.713
+Tue Apr 29 14:51:11 2025
+    scan00131 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:48:03 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 14:48:01 2025
+    scan00131 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:44:53 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 14:44:52 2025
+    scan00130 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:41:44 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 14:41:43 2025
+    scan00129 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:38:35 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 14:38:33 2025
+    scan00128 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:35:25 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 14:32:59 2025
+    scan00126 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:27:51 2025
+    Move to SampleCenter: -0.851, -0.621, -3.713
+Tue Apr 29 14:27:50 2025
+    scan00125 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:24:42 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 14:24:41 2025
+    scan00125 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:21:32 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 14:21:31 2025
+    scan00125 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:18:23 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 14:18:22 2025
+    scan00125 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:15:14 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 14:15:13 2025
+    scan00125 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:12:04 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 14:11:12 2025
+    scan00125 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:10:43 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 14:10:10 2025
+    scan00124 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:09:42 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 14:09:09 2025
+    scan00123 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:08:41 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 14:08:00 2025
+    scan00122 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:07:32 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 14:06:52 2025
+    scan00121 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 14:06:24 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 13:38:34 2025
+    scan00120 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 13:33:26 2025
+    Move to SampleCenter: -0.851, -0.621, -3.713
+Tue Apr 29 13:33:25 2025
+    scan00119 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 13:30:17 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 13:30:16 2025
+    scan00118 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 13:27:07 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 13:27:06 2025
+    scan00117 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 13:23:58 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 13:23:57 2025
+    scan00116 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 13:20:49 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 13:20:48 2025
+    scan00115 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 13:17:39 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 13:14:29 2025
+    scan00114 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 13:14:01 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 13:13:02 2025
+    scan00113 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 13:12:34 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 13:11:21 2025
+    scan00112 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 13:10:51 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 13:07:20 2025
+    scan00111 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 13:06:50 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 13:03:45 2025
+    scan00110 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:58:36 2025
+    Move to SampleCenter: -0.851, -0.621, -3.713
+Tue Apr 29 12:58:35 2025
+    scan00109 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:55:27 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 12:55:26 2025
+    scan00108 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:52:18 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 12:52:17 2025
+    scan00107 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:49:08 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 12:49:07 2025
+    scan00106 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:45:59 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 12:45:58 2025
+    scan00105 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:42:48 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 12:42:37 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 12:42:32 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 12:42:05 2025
+    scan00104 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:41:37 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 12:41:02 2025
+    scan00103 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:40:33 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 12:23:08 2025
+    scan00102 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:18:00 2025
+    Move to SampleCenter: -0.851, -0.621, -3.713
+Tue Apr 29 12:17:59 2025
+    scan00101 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:14:50 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 12:14:49 2025
+    scan00100 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:11:41 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 12:11:40 2025
+    scan00099 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:08:32 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 12:08:31 2025
+    scan00098 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:05:22 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 12:05:21 2025
+    scan00097 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:02:13 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 12:01:42 2025
+    scan00096 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 12:01:11 2025
+    Move to Gold: -0.851, -0.656, -3.743
+Tue Apr 29 12:01:02 2025
+    Move to SampleCenter: -0.851, -0.621, -3.713
+Tue Apr 29 12:00:55 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 12:00:51 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 12:00:47 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 12:00:42 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 12:00:38 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 11:59:20 2025
+    scan00095 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:58:52 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 11:57:21 2025
+    scan00094 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:56:12 2025
+    Move to SampleCenter: -0.851, -0.621, -3.713
+Tue Apr 29 11:56:11 2025
+    scan00093 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:55:41 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 11:54:37 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 11:54:29 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 11:54:24 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 11:54:20 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 11:54:15 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 11:54:11 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 11:53:00 2025
+    Move to Center: -0.851, -0.611, -3.743
+Tue Apr 29 11:52:53 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 11:52:46 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 11:52:42 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 11:52:34 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 11:52:29 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 11:52:22 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 11:51:18 2025
+    scan00092 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:48:09 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 11:48:08 2025
+    scan00091 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:45:00 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 11:44:59 2025
+    scan00090 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:41:51 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 11:41:50 2025
+    scan00089 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:38:41 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 11:38:40 2025
+    scan00088 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:35:32 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 11:34:53 2025
+    scan00087 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:34:22 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 11:33:33 2025
+    scan00086 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:33:14 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 11:31:54 2025
+    scan00085 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:28:45 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 11:28:44 2025
+    scan00084 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:25:36 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 11:25:35 2025
+    scan00083 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:22:27 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 11:22:26 2025
+    scan00082 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:19:17 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 11:19:16 2025
+    scan00081 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:16:08 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 11:15:53 2025
+    scan00080 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:15:35 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 11:15:10 2025
+    scan00079 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:14:50 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 11:13:47 2025
+    scan00078 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:13:28 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 11:13:05 2025
+    scan00077 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:09:57 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 11:09:56 2025
+    scan00076 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:06:48 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 11:06:47 2025
+    scan00075 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:03:38 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 11:03:37 2025
+    scan00074 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 11:00:29 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 11:00:28 2025
+    scan00073 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:57:20 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 10:57:03 2025
+    scan00072 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:56:42 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 10:56:29 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 10:56:20 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 10:56:05 2025
+    scan00071 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:55:47 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 10:55:13 2025
+    scan00070 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:54:54 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 10:54:15 2025
+    scan00069 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:51:06 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 10:51:05 2025
+    scan00068 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:47:57 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 10:47:56 2025
+    scan00067 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:44:48 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 10:44:47 2025
+    scan00066 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:41:38 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 10:41:37 2025
+    scan00065 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:38:29 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 10:37:58 2025
+    scan00064 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:37:39 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 10:36:43 2025
+    scan00063 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:33:35 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 10:33:34 2025
+    scan00062 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:30:25 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 10:30:24 2025
+    scan00061 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:27:16 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 10:27:15 2025
+    scan00060 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:24:07 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 10:24:06 2025
+    scan00059 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:20:57 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 10:20:23 2025
+    scan00058 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:20:05 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 10:18:38 2025
+    scan00057 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:18:20 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 10:17:20 2025
+    scan00056 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:17:00 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 10:16:29 2025
+    scan00055 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:13:20 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 10:13:19 2025
+    scan00054 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:10:11 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 10:10:10 2025
+    scan00053 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:07:02 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 10:07:01 2025
+    scan00052 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:03:52 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 10:03:51 2025
+    scan00051 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 10:00:41 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 10:00:00 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 09:59:43 2025
+    Move to P8: -0.851, -0.561, -3.733
+Tue Apr 29 09:59:33 2025
+    scan00050 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:59:13 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 09:59:05 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 09:58:59 2025
+    Move to P8: -0.851, -0.561, -3.733
+Tue Apr 29 09:57:32 2025
+    scan00049 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:54:24 2025
+    Move to P8: -0.851, -0.561, -3.733
+Tue Apr 29 09:54:23 2025
+    scan00048 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:51:14 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 09:51:13 2025
+    scan00047 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:48:05 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 09:48:04 2025
+    scan00046 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:44:56 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 09:44:55 2025
+    scan00045 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:41:46 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 09:41:45 2025
+    scan00044 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:38:37 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 09:37:55 2025
+    scan00043 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:37:37 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 09:36:52 2025
+    scan00042 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:36:32 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 09:36:16 2025
+    Move to P8: -0.851, -0.561, -3.733
+Tue Apr 29 09:36:07 2025
+    Move to P9: -0.851, -0.551, -3.743
+Tue Apr 29 09:35:48 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 09:35:34 2025
+    Move to P9: -0.851, -0.551, -3.743
+Tue Apr 29 09:35:30 2025
+    Move to P8: -0.851, -0.561, -3.733
+Tue Apr 29 09:34:11 2025
+    scan00041 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:31:02 2025
+    Move to P9: -0.851, -0.551, -3.743
+Tue Apr 29 09:31:01 2025
+    scan00040 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:27:53 2025
+    Move to P8: -0.851, -0.561, -3.733
+Tue Apr 29 09:27:52 2025
+    scan00039 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:24:44 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 09:24:43 2025
+    scan00038 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:21:34 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 09:21:33 2025
+    scan00037 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:18:25 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 09:17:19 2025
+    Move to P8: -0.851, -0.561, -3.733
+Tue Apr 29 09:16:42 2025
+    scan00036 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:13:34 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 09:12:57 2025
+    scan00035 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:09:49 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 09:09:22 2025
+    scan00034 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:09:04 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 09:08:41 2025
+    scan00033 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:08:23 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 09:07:52 2025
+    scan00032 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:07:34 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 09:06:56 2025
+    scan00031 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:03:47 2025
+    Move to P9: -0.851, -0.551, -3.743
+Tue Apr 29 09:03:46 2025
+    scan00030 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 09:00:38 2025
+    Move to P8: -0.851, -0.561, -3.733
+Tue Apr 29 09:00:37 2025
+    scan00029 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:57:29 2025
+    Move to P7: -0.851, -0.561, -3.723
+Tue Apr 29 08:57:28 2025
+    scan00028 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:54:19 2025
+    Move to P6: -0.851, -0.571, -3.723
+Tue Apr 29 08:54:18 2025
+    scan00027 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:51:10 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 08:51:09 2025
+    scan00026 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:48:01 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 08:48:00 2025
+    scan00025 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:44:51 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 08:44:50 2025
+    scan00024 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:41:42 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 08:41:41 2025
+    scan00023 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:38:31 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 08:37:16 2025
+    Move to P10: -0.851, -0.551, -3.753
+Tue Apr 29 08:37:12 2025
+    Move to P9: -0.851, -0.551, -3.743
+Tue Apr 29 08:37:04 2025
+    Move to P8: -0.851, -0.561, -3.733
+Tue Apr 29 08:36:22 2025
+    scan00022 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:36:01 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:35:25 2025
+    scan00021 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:35:06 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:34:29 2025
+    scan00020 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:34:11 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:33:45 2025
+    scan00019 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:33:25 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:32:43 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:32:22 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:31:16 2025
+    scan00017 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:30:56 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:30:12 2025
+    scan00016 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:29:52 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:28:45 2025
+    scan00015 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:28:24 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:27:38 2025
+    scan00014 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:27:18 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:26:35 2025
+    scan00013 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:26:15 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:25:24 2025
+    scan00012 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:25:04 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:24:30 2025
+    scan00011 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:24:10 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:23:29 2025
+    scan00010 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:23:09 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:22:24 2025
+    scan00009 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:22:03 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:21:16 2025
+    scan00008 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:20:56 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:20:28 2025
+    scan00007 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:20:07 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:19:17 2025
+    scan00006 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:18:59 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:18:26 2025
+    scan00005 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:18:06 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:17:33 2025
+    scan00004 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:17:13 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:16:15 2025
+    scan00003 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:15:57 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:14:57 2025
+    scan00002 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:14:37 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:12:44 2025
+    scan00001 done, saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:12:25 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 08:12:17 2025
+    New data will be saved in folder: Cell1Al2Te3_4
+Tue Apr 29 08:11:44 2025
+    scan00236 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 08:08:36 2025
+    Move to P10: -0.851, -0.551, -3.753
+Tue Apr 29 08:08:35 2025
+    scan00235 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 08:05:27 2025
+    Move to P9: -0.851, -0.551, -3.743
+Tue Apr 29 08:05:26 2025
+    scan00234 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 08:02:17 2025
+    Move to P8: -0.851, -0.561, -3.733
+Tue Apr 29 08:02:16 2025
+    scan00233 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 07:59:08 2025
+    Move to P7: -0.851, -0.561, -3.723
+Tue Apr 29 07:59:07 2025
+    scan00232 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 07:55:59 2025
+    Move to P6: -0.851, -0.571, -3.723
+Tue Apr 29 07:55:58 2025
+    scan00231 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 07:52:49 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 07:52:48 2025
+    scan00230 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 07:49:40 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 07:49:39 2025
+    scan00229 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 07:46:31 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 07:46:30 2025
+    scan00228 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 07:43:21 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 07:43:20 2025
+    scan00227 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 07:40:12 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 07:40:11 2025
+    scan00226 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 07:39:51 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 07:38:58 2025
+    Move to P10: -0.851, -0.551, -3.753
+Tue Apr 29 07:38:50 2025
+    Move to P9: -0.851, -0.551, -3.743
+Tue Apr 29 07:38:46 2025
+    Move to P8: -0.851, -0.561, -3.733
+Tue Apr 29 07:38:38 2025
+    Move to P9: -0.851, -0.551, -3.743
+Tue Apr 29 07:38:32 2025
+    Move to P8: -0.851, -0.561, -3.733
+Tue Apr 29 07:38:27 2025
+    Move to P7: -0.851, -0.561, -3.723
+Tue Apr 29 07:38:04 2025
+    Move to P6: -0.851, -0.571, -3.723
+Tue Apr 29 07:37:08 2025
+    Move to P5: -0.851, -0.591, -3.713
+Tue Apr 29 07:37:03 2025
+    Move to P4: -0.851, -0.601, -3.713
+Tue Apr 29 07:36:59 2025
+    Move to P3: -0.851, -0.601, -3.723
+Tue Apr 29 07:36:46 2025
+    Move to P2: -0.851, -0.611, -3.723
+Tue Apr 29 07:36:07 2025
+    Move to P1: -0.851, -0.611, -3.733
+Tue Apr 29 07:35:16 2025
+    Move to Gold: -0.851, -0.661, -3.743
+Tue Apr 29 07:32:47 2025
+    Move to Center: -0.851, -0.611, -3.743
+Tue Apr 29 07:14:19 2025
+    scan00225 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 07:14:01 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 07:12:05 2025
+    scan00224 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 07:08:56 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 07:08:55 2025
+    scan00223 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 07:05:47 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 07:05:46 2025
+    scan00222 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 07:02:38 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 07:02:36 2025
+    scan00221 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:59:28 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 06:59:27 2025
+    scan00220 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:56:19 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 06:56:18 2025
+    scan00219 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:53:09 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 06:53:08 2025
+    scan00218 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:50:00 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 06:49:39 2025
+    scan00217 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:49:21 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 06:48:56 2025
+    scan00216 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:48:38 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 06:48:12 2025
+    scan00215 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:47:54 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 06:47:28 2025
+    scan00214 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:47:10 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 06:46:33 2025
+    scan00213 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:46:15 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 06:21:01 2025
+    scan00212 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:17:53 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 06:17:52 2025
+    scan00211 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:14:44 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 06:14:43 2025
+    scan00210 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:11:34 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 06:11:33 2025
+    scan00209 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:08:25 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 06:08:24 2025
+    scan00208 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:05:16 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 06:05:14 2025
+    scan00207 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 06:02:06 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 06:02:05 2025
+    scan00206 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:58:57 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 05:58:35 2025
+    scan00205 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:58:17 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:57:46 2025
+    scan00204 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:57:28 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:56:59 2025
+    scan00203 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:56:40 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:56:16 2025
+    scan00202 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:55:58 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:55:22 2025
+    scan00201 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:55:02 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:50:39 2025
+    scan00200 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:47:31 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 05:47:30 2025
+    scan00199 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:44:22 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 05:44:21 2025
+    scan00198 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:41:12 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 05:41:11 2025
+    scan00197 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:38:03 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 05:38:02 2025
+    scan00196 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:34:53 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 05:34:52 2025
+    scan00195 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:31:44 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 05:31:43 2025
+    scan00194 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:28:35 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 05:28:11 2025
+    scan00193 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:27:53 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:27:18 2025
+    scan00192 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:26:59 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:26:19 2025
+    scan00191 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:26:01 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:25:22 2025
+    scan00190 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:25:04 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:24:11 2025
+    scan00189 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:23:53 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:22:40 2025
+    scan00188 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:22:20 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:21:21 2025
+    scan00187 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:21:03 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:19:43 2025
+    scan00186 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:19:04 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 05:17:05 2025
+    scan00185 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:13:56 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 05:13:55 2025
+    scan00184 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:10:47 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 05:10:46 2025
+    scan00183 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:07:38 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 05:07:36 2025
+    scan00182 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:04:28 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 05:04:27 2025
+    scan00181 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 05:01:19 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 05:01:18 2025
+    scan00180 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:58:09 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 04:58:08 2025
+    scan00179 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:55:00 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 04:54:37 2025
+    scan00178 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:53:29 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 04:52:19 2025
+    scan00177 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:51:09 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 04:48:27 2025
+    scan00176 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:45:19 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 04:45:18 2025
+    scan00175 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:42:10 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 04:42:09 2025
+    scan00174 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:39:00 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 04:38:59 2025
+    scan00173 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:35:51 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 04:35:50 2025
+    scan00172 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:32:42 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 04:32:41 2025
+    scan00171 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:29:32 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 04:29:31 2025
+    scan00170 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:26:23 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 04:25:58 2025
+    scan00169 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:24:50 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 04:23:45 2025
+    scan00168 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:22:37 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 04:21:32 2025
+    scan00167 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:20:24 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 04:19:33 2025
+    scan00166 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:18:23 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 04:16:39 2025
+    scan00165 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:13:31 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 04:13:30 2025
+    scan00164 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:10:22 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 04:10:21 2025
+    scan00163 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:07:12 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 04:07:11 2025
+    scan00162 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:04:03 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 04:04:02 2025
+    scan00161 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 04:00:54 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 04:00:53 2025
+    scan00160 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:57:44 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 03:57:43 2025
+    scan00159 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:54:35 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 03:54:16 2025
+    scan00158 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:53:07 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 03:52:24 2025
+    scan00157 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:51:14 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 03:49:45 2025
+    scan00156 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:46:36 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 03:46:35 2025
+    scan00155 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:43:27 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 03:43:26 2025
+    scan00154 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:40:18 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 03:40:17 2025
+    scan00153 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:37:08 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 03:37:07 2025
+    scan00152 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:33:59 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 03:33:58 2025
+    scan00151 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:30:50 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 03:30:48 2025
+    scan00150 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:27:40 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 03:27:18 2025
+    scan00149 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:26:10 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 03:25:31 2025
+    scan00148 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:24:23 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 03:23:49 2025
+    scan00147 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:22:39 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 03:20:48 2025
+    scan00146 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:17:39 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 03:17:38 2025
+    scan00145 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:14:30 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 03:14:29 2025
+    scan00144 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:11:21 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 03:11:19 2025
+    scan00143 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:08:11 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 03:08:10 2025
+    scan00142 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:05:02 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 03:05:01 2025
+    scan00141 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 03:01:52 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 03:01:51 2025
+    scan00140 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:58:43 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 02:58:04 2025
+    scan00139 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:56:54 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 02:55:15 2025
+    scan00138 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:52:06 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 02:52:05 2025
+    scan00137 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:48:57 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 02:48:56 2025
+    scan00136 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:45:48 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 02:45:47 2025
+    scan00135 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:42:38 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 02:42:37 2025
+    scan00134 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:39:29 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 02:39:28 2025
+    scan00133 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:36:20 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 02:36:19 2025
+    scan00132 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:33:10 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 02:32:34 2025
+    scan00131 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:31:24 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 02:29:37 2025
+    scan00130 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:26:29 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 02:26:28 2025
+    scan00129 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:23:19 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 02:23:18 2025
+    scan00128 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:20:10 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 02:20:09 2025
+    scan00127 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:17:01 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 02:17:00 2025
+    scan00126 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:13:51 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 02:13:50 2025
+    scan00125 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:10:42 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 02:10:41 2025
+    scan00124 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:07:33 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 02:07:04 2025
+    scan00123 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:05:55 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 02:04:45 2025
+    scan00122 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 02:03:37 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 02:01:34 2025
+    scan00121 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:58:26 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 01:58:25 2025
+    scan00120 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:55:16 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 01:55:15 2025
+    scan00119 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:52:07 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 01:52:06 2025
+    scan00118 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:48:58 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 01:48:57 2025
+    scan00117 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:45:48 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 01:45:47 2025
+    scan00116 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:42:39 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 01:42:38 2025
+    scan00115 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:39:30 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 01:39:12 2025
+    scan00114 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:38:03 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 01:37:39 2025
+    scan00113 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:36:31 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 01:34:08 2025
+    scan00112 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:32:58 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 01:30:31 2025
+    scan00111 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:27:23 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 01:27:22 2025
+    scan00110 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:24:14 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 01:24:13 2025
+    scan00109 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:21:04 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 01:21:03 2025
+    scan00108 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:17:55 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 01:17:54 2025
+    scan00107 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:14:45 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 01:14:44 2025
+    scan00106 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:11:36 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 01:11:35 2025
+    scan00105 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:08:27 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 01:08:01 2025
+    scan00104 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:06:53 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 01:05:53 2025
+    scan00103 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:04:43 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 01:03:31 2025
+    scan00102 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 01:00:23 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 01:00:22 2025
+    scan00101 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:57:13 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 00:57:12 2025
+    scan00100 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:54:04 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 00:54:03 2025
+    scan00099 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:50:55 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 00:50:53 2025
+    scan00098 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:47:45 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 00:47:44 2025
+    scan00097 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:44:36 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 00:44:35 2025
+    scan00096 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:41:27 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 00:41:06 2025
+    scan00095 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:39:57 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 00:39:10 2025
+    scan00094 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:38:00 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 00:36:20 2025
+    scan00093 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:33:11 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 00:33:10 2025
+    scan00092 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:30:02 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 00:30:01 2025
+    scan00091 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:26:53 2025
+    Move to P5: 0.513, -0.641, -3.801
+Tue Apr 29 00:26:52 2025
+    scan00090 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:23:43 2025
+    Move to P4: 0.513, -0.671, -3.801
+Tue Apr 29 00:23:42 2025
+    scan00089 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:20:34 2025
+    Move to P3: 0.513, -0.611, -3.771
+Tue Apr 29 00:20:33 2025
+    scan00088 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:17:25 2025
+    Move to P2: 0.513, -0.641, -3.771
+Tue Apr 29 00:17:23 2025
+    scan00087 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:14:15 2025
+    Move to P1: 0.513, -0.671, -3.771
+Tue Apr 29 00:13:58 2025
+    scan00086 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:12:50 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 00:11:54 2025
+    scan00085 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:10:44 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Tue Apr 29 00:08:42 2025
+    scan00084 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:05:34 2025
+    Move to P7: 0.513, -0.641, -3.831
+Tue Apr 29 00:05:32 2025
+    scan00083 done, saved in folder: Cel9Al2Te3_1
+Tue Apr 29 00:02:24 2025
+    Move to P6: 0.513, -0.611, -3.801
+Tue Apr 29 00:02:23 2025
+    scan00082 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:59:14 2025
+    Move to P5: 0.513, -0.641, -3.801
+Mon Apr 28 23:59:13 2025
+    scan00081 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:56:05 2025
+    Move to P4: 0.513, -0.671, -3.801
+Mon Apr 28 23:56:04 2025
+    scan00080 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:52:55 2025
+    Move to P3: 0.513, -0.611, -3.771
+Mon Apr 28 23:52:54 2025
+    scan00079 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:49:46 2025
+    Move to P2: 0.513, -0.641, -3.771
+Mon Apr 28 23:49:44 2025
+    scan00078 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:46:36 2025
+    Move to P1: 0.513, -0.671, -3.771
+Mon Apr 28 23:46:06 2025
+    scan00077 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:44:58 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Mon Apr 28 23:43:54 2025
+    scan00076 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:42:46 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Mon Apr 28 23:41:23 2025
+    scan00075 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:38:15 2025
+    Move to P7: 0.513, -0.641, -3.831
+Mon Apr 28 23:38:14 2025
+    scan00074 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:35:05 2025
+    Move to P6: 0.513, -0.611, -3.801
+Mon Apr 28 23:35:04 2025
+    scan00073 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:31:56 2025
+    Move to P5: 0.513, -0.641, -3.801
+Mon Apr 28 23:31:55 2025
+    scan00072 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:28:47 2025
+    Move to P4: 0.513, -0.671, -3.801
+Mon Apr 28 23:28:45 2025
+    scan00071 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:25:37 2025
+    Move to P3: 0.513, -0.611, -3.771
+Mon Apr 28 23:25:36 2025
+    scan00070 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:22:28 2025
+    Move to P2: 0.513, -0.641, -3.771
+Mon Apr 28 23:22:27 2025
+    scan00069 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:19:18 2025
+    Move to P1: 0.513, -0.671, -3.771
+Mon Apr 28 23:18:57 2025
+    scan00068 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:17:49 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Mon Apr 28 23:17:21 2025
+    scan00067 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:16:13 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Mon Apr 28 23:13:56 2025
+    scan00066 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:12:46 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Mon Apr 28 23:11:23 2025
+    scan00065 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:08:15 2025
+    Move to P7: 0.513, -0.641, -3.831
+Mon Apr 28 23:08:14 2025
+    scan00064 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:05:06 2025
+    Move to P6: 0.513, -0.611, -3.801
+Mon Apr 28 23:05:04 2025
+    scan00063 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 23:01:56 2025
+    Move to P5: 0.513, -0.641, -3.801
+Mon Apr 28 23:01:55 2025
+    scan00062 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:58:47 2025
+    Move to P4: 0.513, -0.671, -3.801
+Mon Apr 28 22:58:46 2025
+    scan00061 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:55:37 2025
+    Move to P3: 0.513, -0.611, -3.771
+Mon Apr 28 22:55:36 2025
+    scan00060 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:52:28 2025
+    Move to P2: 0.513, -0.641, -3.771
+Mon Apr 28 22:52:27 2025
+    scan00059 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:49:19 2025
+    Move to P1: 0.513, -0.671, -3.771
+Mon Apr 28 22:48:51 2025
+    scan00058 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:47:43 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Mon Apr 28 22:46:48 2025
+    scan00057 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:45:38 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Mon Apr 28 22:43:46 2025
+    scan00056 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:40:38 2025
+    Move to P7: 0.513, -0.641, -3.831
+Mon Apr 28 22:40:37 2025
+    scan00055 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:37:28 2025
+    Move to P6: 0.513, -0.611, -3.801
+Mon Apr 28 22:37:27 2025
+    scan00054 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:34:19 2025
+    Move to P5: 0.513, -0.641, -3.801
+Mon Apr 28 22:34:18 2025
+    scan00053 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:31:10 2025
+    Move to P4: 0.513, -0.671, -3.801
+Mon Apr 28 22:31:09 2025
+    scan00052 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:28:00 2025
+    Move to P3: 0.513, -0.611, -3.771
+Mon Apr 28 22:27:59 2025
+    scan00051 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:24:51 2025
+    Move to P2: 0.513, -0.641, -3.771
+Mon Apr 28 22:24:50 2025
+    scan00050 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:21:42 2025
+    Move to P1: 0.513, -0.671, -3.771
+Mon Apr 28 22:21:04 2025
+    scan00049 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:19:56 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Mon Apr 28 22:19:24 2025
+    scan00048 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:18:16 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Mon Apr 28 22:15:44 2025
+    scan00047 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:14:34 2025
+    Move to Gold: 0.513, -0.641, -3.681
+Mon Apr 28 22:14:16 2025
+    Move to Center: 0.513, -0.641, -3.741
+Mon Apr 28 22:12:29 2025
+    scan00046 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:09:21 2025
+    Move to P7: 0.513, -0.641, -3.831
+Mon Apr 28 22:09:20 2025
+    scan00045 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:06:11 2025
+    Move to P6: 0.513, -0.611, -3.801
+Mon Apr 28 22:06:10 2025
+    scan00044 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 22:03:02 2025
+    Move to P5: 0.513, -0.641, -3.801
+Mon Apr 28 22:03:01 2025
+    scan00043 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:59:53 2025
+    Move to P4: 0.513, -0.671, -3.801
+Mon Apr 28 21:59:52 2025
+    scan00042 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:56:43 2025
+    Move to P3: 0.513, -0.611, -3.771
+Mon Apr 28 21:56:42 2025
+    scan00041 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:53:34 2025
+    Move to P2: 0.513, -0.641, -3.771
+Mon Apr 28 21:53:33 2025
+    scan00040 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:50:25 2025
+    Move to P1: 0.513, -0.671, -3.771
+Mon Apr 28 21:50:23 2025
+    scan00039 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:49:15 2025
+    Move to Gold: 0.513, -0.641, -3.661
+Mon Apr 28 21:48:40 2025
+    scan00038 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:48:22 2025
+    Move to Gold: 0.513, -0.641, -3.661
+Mon Apr 28 21:47:28 2025
+    scan00037 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:47:07 2025
+    Move to Gold: 0.513, -0.641, -3.661
+Mon Apr 28 21:45:20 2025
+    scan00036 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:45:01 2025
+    Move to Gold: 0.513, -0.641, -3.661
+Mon Apr 28 21:44:20 2025
+    scan00035 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:43:12 2025
+    Move to Gold: 0.513, -0.641, -3.661
+Mon Apr 28 21:40:56 2025
+    scan00034 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:39:47 2025
+    Move to Gold: 0.513, -0.641, -3.661
+Mon Apr 28 21:38:50 2025
+    scan00033 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:35:42 2025
+    Move to P7: 0.513, -0.641, -3.831
+Mon Apr 28 21:35:41 2025
+    scan00032 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:32:33 2025
+    Move to P6: 0.513, -0.611, -3.801
+Mon Apr 28 21:32:32 2025
+    scan00031 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:29:23 2025
+    Move to P5: 0.513, -0.641, -3.801
+Mon Apr 28 21:29:22 2025
+    scan00030 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:26:14 2025
+    Move to P4: 0.513, -0.671, -3.801
+Mon Apr 28 21:26:13 2025
+    scan00029 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:23:05 2025
+    Move to P3: 0.513, -0.611, -3.771
+Mon Apr 28 21:23:04 2025
+    scan00028 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:19:55 2025
+    Move to P2: 0.513, -0.641, -3.771
+Mon Apr 28 21:19:54 2025
+    scan00027 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:16:44 2025
+    Move to P1: 0.513, -0.671, -3.771
+Mon Apr 28 21:13:45 2025
+    Move to Center: 0.513, -0.641, -3.741
+Mon Apr 28 21:11:54 2025
+    scan00026 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:11:35 2025
+    Move to P9: 0.513, -0.611, -3.771
+Mon Apr 28 21:11:34 2025
+    scan00025 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:11:16 2025
+    Move to P8: 0.513, -0.611, -3.741
+Mon Apr 28 21:11:15 2025
+    scan00024 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:10:57 2025
+    Move to P7: 0.513, -0.611, -3.711
+Mon Apr 28 21:10:56 2025
+    scan00023 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:10:37 2025
+    Move to P6: 0.513, -0.641, -3.771
+Mon Apr 28 21:10:36 2025
+    scan00022 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:10:18 2025
+    Move to P5: 0.513, -0.641, -3.741
+Mon Apr 28 21:10:17 2025
+    scan00021 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:09:59 2025
+    Move to P4: 0.513, -0.641, -3.711
+Mon Apr 28 21:09:57 2025
+    scan00020 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:09:39 2025
+    Move to P3: 0.513, -0.671, -3.771
+Mon Apr 28 21:09:38 2025
+    scan00019 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:09:20 2025
+    Move to P2: 0.513, -0.671, -3.741
+Mon Apr 28 21:09:19 2025
+    scan00018 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:08:58 2025
+    Move to P1: 0.513, -0.671, -3.711
+Mon Apr 28 21:07:23 2025
+    Move to Center: 0.513, -0.641, -3.741
+Mon Apr 28 21:07:17 2025
+    Move to Gold: 0.513, -0.641, -3.661
+Mon Apr 28 21:03:53 2025
+    scan00017 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:03:35 2025
+    Move to P13: 0.513, -0.621, -3.821
+Mon Apr 28 21:03:34 2025
+    scan00016 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:03:16 2025
+    Move to P12: 0.513, -0.641, -3.821
+Mon Apr 28 21:03:15 2025
+    scan00015 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:02:57 2025
+    Move to P11: 0.513, -0.661, -3.821
+Mon Apr 28 21:02:55 2025
+    scan00014 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:02:37 2025
+    Move to P10: 0.513, -0.601, -3.801
+Mon Apr 28 21:02:36 2025
+    scan00013 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:02:18 2025
+    Move to P9: 0.513, -0.621, -3.801
+Mon Apr 28 21:02:17 2025
+    scan00012 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:01:58 2025
+    Move to P8: 0.513, -0.641, -3.801
+Mon Apr 28 21:01:57 2025
+    scan00011 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:01:39 2025
+    Move to P7: 0.513, -0.661, -3.801
+Mon Apr 28 21:01:38 2025
+    scan00010 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:01:20 2025
+    Move to P6: 0.513, -0.681, -3.801
+Mon Apr 28 21:01:19 2025
+    scan00009 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:01:00 2025
+    Move to P5: 0.513, -0.601, -3.781
+Mon Apr 28 21:00:59 2025
+    scan00008 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:00:41 2025
+    Move to P4: 0.513, -0.621, -3.781
+Mon Apr 28 21:00:40 2025
+    scan00007 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:00:22 2025
+    Move to P3: 0.513, -0.641, -3.781
+Mon Apr 28 21:00:21 2025
+    scan00006 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 21:00:02 2025
+    Move to P2: 0.513, -0.661, -3.781
+Mon Apr 28 21:00:01 2025
+    scan00005 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 20:59:41 2025
+    Move to P1: 0.513, -0.681, -3.781
+Mon Apr 28 20:56:37 2025
+    Move to Center: 0.513, -0.641, -3.741
+Mon Apr 28 20:54:29 2025
+    Move to Center: 0.513, -0.641, -3.741
+Mon Apr 28 20:52:43 2025
+    scan00004 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 20:52:24 2025
+    Move to P2: 0.513, -0.641, -3.661
+Mon Apr 28 20:52:23 2025
+    scan00003 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 20:52:05 2025
+    Move to P1: 0.513, -0.621, -3.661
+Mon Apr 28 20:52:04 2025
+    scan00002 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 20:51:44 2025
+    Move to Gold: 0.513, -0.601, -3.661
+Mon Apr 28 20:49:10 2025
+    scan00001 done, saved in folder: Cel9Al2Te3_1
+Mon Apr 28 20:48:49 2025
+    Move to Gold: 0.513, -0.601, -3.701
+Mon Apr 28 20:46:35 2025
+    New data will be saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:44:06 2025
+    scan00046 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:43:47 2025
+    Move to Gold: 0.513, -0.641, -3.701
+Mon Apr 28 20:43:46 2025
+    scan00045 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:43:26 2025
+    Move to Center: 0.513, -0.641, -3.741
+Mon Apr 28 20:17:06 2025
+    scan00044 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:16:48 2025
+    Move to P13: -0.227, -0.914, -2.826
+Mon Apr 28 20:16:47 2025
+    scan00043 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:16:29 2025
+    Move to P12: -0.227, -0.914, -2.816
+Mon Apr 28 20:16:28 2025
+    scan00042 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:16:09 2025
+    Move to P11: -0.227, -0.914, -2.806
+Mon Apr 28 20:16:08 2025
+    scan00041 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:15:50 2025
+    Move to P10: -0.227, -0.914, -2.796
+Mon Apr 28 20:15:49 2025
+    scan00040 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:15:31 2025
+    Move to P9: -0.227, -0.914, -2.786
+Mon Apr 28 20:15:30 2025
+    scan00039 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:15:11 2025
+    Move to P8: -0.227, -0.914, -2.776
+Mon Apr 28 20:15:10 2025
+    scan00038 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:14:52 2025
+    Move to P7: -0.227, -0.914, -2.766
+Mon Apr 28 20:14:51 2025
+    scan00037 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:14:33 2025
+    Move to P6: -0.227, -0.914, -2.756
+Mon Apr 28 20:14:32 2025
+    scan00036 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:14:13 2025
+    Move to P5: -0.227, -0.914, -2.746
+Mon Apr 28 20:14:12 2025
+    scan00035 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:13:54 2025
+    Move to P4: -0.227, -0.914, -2.736
+Mon Apr 28 20:13:53 2025
+    scan00034 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:13:35 2025
+    Move to P3: -0.227, -0.914, -2.726
+Mon Apr 28 20:13:34 2025
+    scan00033 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:13:16 2025
+    Move to P2: -0.227, -0.914, -2.716
+Mon Apr 28 20:13:15 2025
+    scan00032 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:12:54 2025
+    Move to P1: -0.227, -0.914, -2.706
+Mon Apr 28 20:05:30 2025
+    scan00031 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:05:12 2025
+    Move to P13: -0.227, -0.934, -2.826
+Mon Apr 28 20:05:11 2025
+    scan00030 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:04:52 2025
+    Move to P12: -0.227, -0.934, -2.816
+Mon Apr 28 20:04:51 2025
+    scan00029 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:04:33 2025
+    Move to P11: -0.227, -0.934, -2.806
+Mon Apr 28 20:04:32 2025
+    scan00028 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:04:14 2025
+    Move to P10: -0.227, -0.934, -2.796
+Mon Apr 28 20:04:13 2025
+    scan00027 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:03:55 2025
+    Move to P9: -0.227, -0.934, -2.786
+Mon Apr 28 20:03:54 2025
+    scan00026 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:03:35 2025
+    Move to P8: -0.227, -0.934, -2.776
+Mon Apr 28 20:03:34 2025
+    scan00025 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:03:16 2025
+    Move to P7: -0.227, -0.934, -2.766
+Mon Apr 28 20:03:15 2025
+    scan00024 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:02:57 2025
+    Move to P6: -0.227, -0.934, -2.756
+Mon Apr 28 20:02:56 2025
+    scan00023 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:02:37 2025
+    Move to P5: -0.227, -0.934, -2.746
+Mon Apr 28 20:02:36 2025
+    scan00022 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:02:18 2025
+    Move to P4: -0.227, -0.934, -2.736
+Mon Apr 28 20:02:17 2025
+    scan00021 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:01:59 2025
+    Move to P3: -0.227, -0.934, -2.726
+Mon Apr 28 20:01:58 2025
+    scan00020 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:01:39 2025
+    Move to P2: -0.227, -0.934, -2.716
+Mon Apr 28 20:01:38 2025
+    scan00019 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 20:01:18 2025
+    Move to P1: -0.227, -0.934, -2.706
+Mon Apr 28 19:59:33 2025
+    scan00018 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:59:15 2025
+    Move to P13: -0.227, -0.954, -2.826
+Mon Apr 28 19:59:14 2025
+    scan00017 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:58:56 2025
+    Move to P12: -0.227, -0.954, -2.816
+Mon Apr 28 19:58:55 2025
+    scan00016 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:58:36 2025
+    Move to P11: -0.227, -0.954, -2.806
+Mon Apr 28 19:58:35 2025
+    scan00015 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:58:17 2025
+    Move to P10: -0.227, -0.954, -2.796
+Mon Apr 28 19:58:16 2025
+    scan00014 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:57:58 2025
+    Move to P9: -0.227, -0.954, -2.786
+Mon Apr 28 19:57:57 2025
+    scan00013 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:57:38 2025
+    Move to P8: -0.227, -0.954, -2.776
+Mon Apr 28 19:57:37 2025
+    scan00012 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:57:19 2025
+    Move to P7: -0.227, -0.954, -2.766
+Mon Apr 28 19:57:18 2025
+    scan00011 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:57:00 2025
+    Move to P6: -0.227, -0.954, -2.756
+Mon Apr 28 19:56:59 2025
+    scan00010 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:56:41 2025
+    Move to P5: -0.227, -0.954, -2.746
+Mon Apr 28 19:56:39 2025
+    scan00009 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:56:21 2025
+    Move to P4: -0.227, -0.954, -2.736
+Mon Apr 28 19:56:20 2025
+    scan00008 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:56:02 2025
+    Move to P3: -0.227, -0.954, -2.726
+Mon Apr 28 19:56:01 2025
+    scan00007 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:55:43 2025
+    Move to P2: -0.227, -0.954, -2.716
+Mon Apr 28 19:55:42 2025
+    scan00006 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:55:21 2025
+    Move to P1: -0.227, -0.954, -2.706
+Mon Apr 28 19:54:04 2025
+    Move to P11: -0.227, -0.954, -2.806
+Mon Apr 28 19:50:42 2025
+    scan00005 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:50:24 2025
+    Move to P1: -0.227, -0.954, -2.826
+Mon Apr 28 19:50:23 2025
+    scan00004 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:50:03 2025
+    Move to Gold: -0.227, -0.944, -2.826
+Mon Apr 28 19:49:01 2025
+    Move to Ruby: -0.227, -0.914, -2.836
+Mon Apr 28 19:48:39 2025
+    Move to Center: -0.227, -0.884, -2.766
+Mon Apr 28 19:46:27 2025
+    scan00003 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:46:09 2025
+    Move to Gold: -0.227, -0.854, -2.796
+Mon Apr 28 19:46:08 2025
+    scan00002 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:45:49 2025
+    Move to Ruby: -0.227, -0.914, -2.836
+Mon Apr 28 19:45:48 2025
+    scan00001 done, saved in folder: Cell30Al2Te3_1
+Mon Apr 28 19:45:28 2025
+    Move to Center: -0.227, -0.884, -2.766
+Mon Apr 28 19:45:22 2025
+    New data will be saved in folder: Cell30Al2Te3_1
+Mon Apr 28 17:23:40 2025
+    scan00001 done, saved in folder: Cell1Al2Te35_1
+Mon Apr 28 17:23:31 2025
+    Move to P18: 1.405, -0.822, -2.884
+Mon Apr 28 17:23:27 2025
+    New data will be saved in folder: Cell1Al2Te35_1
+Mon Apr 28 17:19:41 2025
+    scan00006 done, saved in folder: Cell1Al2Te34_1
+Mon Apr 28 17:16:33 2025
+    Move to P19: 1.405, -0.792, -2.884
+Mon Apr 28 17:13:06 2025
+    scan00005 done, saved in folder: Cell1Al2Te34_1
+Mon Apr 28 17:12:57 2025
+    Move to P18: 1.405, -0.822, -2.884
+Mon Apr 28 17:12:46 2025
+    scan00004 done, saved in folder: Cell1Al2Te34_1
+Mon Apr 28 17:12:37 2025
+    Move to P18: 1.405, -0.822, -2.884
+Mon Apr 28 17:12:20 2025
+    scan00002 done, saved in folder: Cell1Al2Te34_1
+Mon Apr 28 17:12:11 2025
+    Move to P18: 1.405, -0.822, -2.884
+Mon Apr 28 17:11:35 2025
+    scan00020 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 17:11:26 2025
+    Move to P18: 1.405, -0.822, -2.884
+Mon Apr 28 17:08:29 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 17:08:10 2025
+    Move to P18: 1.405, -0.822, -2.884
+Mon Apr 28 17:07:56 2025
+    New data will be saved in folder: Cell1Al2Te3_3
+Mon Apr 28 17:01:36 2025
+    scan00016 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 17:01:17 2025
+    Move to P18: 1.405, -0.822, -2.884
+Mon Apr 28 16:56:11 2025
+    scan00014 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 16:56:02 2025
+    Move to P18: 1.405, -0.822, -2.884
+Mon Apr 28 16:54:46 2025
+    scan00014 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 16:51:38 2025
+    Move to P18: 1.405, -0.822, -2.884
+Mon Apr 28 16:51:36 2025
+    scan00013 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 16:48:28 2025
+    Move to P17: 1.405, -0.832, -2.884
+Mon Apr 28 16:48:27 2025
+    scan00012 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 16:45:19 2025
+    Move to P16: 1.405, -0.832, -2.894
+Mon Apr 28 16:45:18 2025
+    scan00010 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 16:42:10 2025
+    Move to P15: 1.405, -0.832, -2.904
+Mon Apr 28 16:42:09 2025
+    scan00009 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 16:39:00 2025
+    Move to P14: 1.405, -0.842, -2.914
+Mon Apr 28 16:38:59 2025
+    scan00008 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 16:35:51 2025
+    Move to P13: 1.405, -0.842, -2.904
+Mon Apr 28 16:35:50 2025
+    scan00007 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 16:32:42 2025
+    Move to P12: 1.405, -0.842, -2.894
+Mon Apr 28 16:32:41 2025
+    scan00005 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 16:29:33 2025
+    Move to P11: 1.405, -0.842, -2.884
+Mon Apr 28 16:29:31 2025
+    scan00003 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 16:26:23 2025
+    Move to P10: 1.405, -0.852, -2.894
+Mon Apr 28 16:26:22 2025
+    scan00001 done, saved in folder: Cell1Al2Te3_3
+Mon Apr 28 16:23:14 2025
+    Move to P9: 1.405, -0.852, -2.904
+Mon Apr 28 16:23:13 2025
+    scan00001 done, saved in folder: Cell1Al2Te33_1
+Mon Apr 28 16:20:05 2025
+    Move to P8: 1.405, -0.852, -2.914
+Mon Apr 28 16:20:03 2025
+    scan00001 done, saved in folder: Cell1Al2Te3_2
+Mon Apr 28 16:16:55 2025
+    Move to P19: 1.405, -0.792, -2.884
+Mon Apr 28 16:16:25 2025
+    Move to P18: 1.405, -0.822, -2.884
+Mon Apr 28 16:16:21 2025
+    Move to Ruby: 1.405, -0.832, -2.984
+Mon Apr 28 16:16:11 2025
+    Move to P18: 1.405, -0.822, -2.884
+Mon Apr 28 16:11:49 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 16:11:26 2025
+    Move to P5: 1.405, -0.852, -2.944
+Mon Apr 28 16:11:21 2025
+    Move to P6: 1.405, -0.842, -2.944
+Mon Apr 28 16:11:11 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 16:11:08 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 16:03:51 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:03:33 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 16:03:32 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:03:13 2025
+    Move to P6: 1.405, -0.842, -2.944
+Mon Apr 28 16:03:12 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:02:54 2025
+    Move to P5: 1.405, -0.852, -2.944
+Mon Apr 28 16:02:16 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:02:07 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 16:02:06 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:01:57 2025
+    Move to P6: 1.405, -0.842, -2.944
+Mon Apr 28 16:01:45 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:01:35 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 16:01:30 2025
+    New data will be saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:01:12 2025
+    New data will be saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:01:05 2025
+    New data will be saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:00:57 2025
+    New data will be saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:00:53 2025
+    New data will be saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:00:50 2025
+    New data will be saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:00:38 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:00:29 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 16:00:24 2025
+    New data will be saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:00:20 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 16:00:11 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 15:59:46 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:59:37 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 15:59:29 2025
+    New data will be saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:59:23 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:59:14 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 15:58:57 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:55:49 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 15:55:17 2025
+    scan00018 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:52:08 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 15:52:07 2025
+    scan00017 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:48:59 2025
+    Move to P6: 1.405, -0.842, -2.944
+Mon Apr 28 15:48:58 2025
+    scan00016 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:45:50 2025
+    Move to P5: 1.405, -0.852, -2.944
+Mon Apr 28 15:45:49 2025
+    scan00015 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:42:41 2025
+    Move to P4: 1.405, -0.822, -2.954
+Mon Apr 28 15:42:40 2025
+    scan00014 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:39:31 2025
+    Move to P3: 1.405, -0.832, -2.954
+Mon Apr 28 15:39:30 2025
+    scan00013 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:36:22 2025
+    Move to P2: 1.405, -0.842, -2.954
+Mon Apr 28 15:35:35 2025
+    scan00012 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:32:27 2025
+    Move to P1: 1.405, -0.852, -2.954
+Mon Apr 28 15:30:53 2025
+    scan00011 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:29:45 2025
+    Move to P7: 1.405, -0.842, -2.934
+Mon Apr 28 15:29:44 2025
+    scan00010 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:28:36 2025
+    Move to P6: 1.405, -0.842, -2.944
+Mon Apr 28 15:28:35 2025
+    scan00009 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:27:27 2025
+    Move to P5: 1.405, -0.852, -2.944
+Mon Apr 28 15:27:26 2025
+    scan00008 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:26:17 2025
+    Move to P4: 1.405, -0.822, -2.954
+Mon Apr 28 15:26:16 2025
+    scan00007 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:25:08 2025
+    Move to P3: 1.405, -0.832, -2.954
+Mon Apr 28 15:25:07 2025
+    scan00006 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:23:59 2025
+    Move to P2: 1.405, -0.842, -2.954
+Mon Apr 28 15:23:58 2025
+    scan00005 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:22:47 2025
+    Move to P1: 1.405, -0.852, -2.954
+Mon Apr 28 15:21:36 2025
+    Move to P1: 1.405, -0.852, -2.954
+Mon Apr 28 15:18:35 2025
+    scan00004 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:17:27 2025
+    Move to P1: 1.405, -0.822, -2.954
+Mon Apr 28 15:15:56 2025
+    scan00003 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:15:38 2025
+    Move to P1: 1.405, -0.822, -2.954
+Mon Apr 28 15:15:37 2025
+    scan00002 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:15:19 2025
+    Move to Gold: 1.405, -0.782, -2.994
+Mon Apr 28 15:15:18 2025
+    scan00001 done, saved in folder: Cell1Al2Te3_1
+Mon Apr 28 15:14:58 2025
+    Move to Ruby: 1.405, -0.832, -2.984
+Mon Apr 28 15:14:12 2025
+    Move to Center: 1.405, -0.812, -2.944
+Mon Apr 28 15:11:16 2025
+    New data will be saved in folder: Cell1Al2Te3_1
+Mon Apr 28 13:51:10 2025
+    scan00004 done, saved in folder: GYIG13ambient_1
+Mon Apr 28 13:49:32 2025
+    Move to F0.3: -0.385, -0.875, -2.771
+Mon Apr 28 13:49:31 2025
+    scan00003 done, saved in folder: GYIG13ambient_1
+Mon Apr 28 13:47:42 2025
+    Move to F0.5: -0.385, -0.905, -2.821
+Mon Apr 28 13:47:41 2025
+    scan00002 done, saved in folder: GYIG13ambient_1
+Mon Apr 28 13:45:58 2025
+    Move to F0.3: -0.385, -0.875, -2.771
+Mon Apr 28 13:45:57 2025
+    scan00001 done, saved in folder: GYIG13ambient_1
+Mon Apr 28 13:44:11 2025
+    Move to F0.5: -0.385, -0.905, -2.821
+Mon Apr 28 13:43:53 2025
+    Move to F0.5: -0.385, -0.905, -2.821
+Mon Apr 28 13:43:51 2025
+    Move to F0.3: -0.385, -0.875, -2.771
+Mon Apr 28 13:43:47 2025
+    Move to F0.5: -0.385, -0.905, -2.821
+Mon Apr 28 13:30:14 2025
+    New data will be saved in folder: GYIG13ambient_1
+Mon Apr 28 13:25:44 2025
+    scan00006 done, saved in folder: GYIG06ambient_1
+Mon Apr 28 13:23:56 2025
+    Move to La: -0.338, -1.093, -2.828
+Mon Apr 28 13:23:55 2025
+    scan00005 done, saved in folder: GYIG06ambient_1
+Mon Apr 28 13:21:57 2025
+    Move to Ce: -0.338, -1.138, -2.863
+Mon Apr 28 13:21:16 2025
+    scan00004 done, saved in folder: GYIG06ambient_1
+Mon Apr 28 13:19:23 2025
+    Move to La: -0.338, -1.093, -2.828
+Mon Apr 28 13:19:22 2025
+    scan00003 done, saved in folder: GYIG06ambient_1
+Mon Apr 28 13:17:25 2025
+    Move to Ce: -0.338, -1.138, -2.863
+Mon Apr 28 12:54:08 2025
+    scan00002 done, saved in folder: GYIG06ambient_1
+Mon Apr 28 12:52:22 2025
+    Move to NdCO3OH: -0.025, -0.924, -2.775
+Mon Apr 28 12:52:21 2025
+    scan00001 done, saved in folder: GYIG06ambient_1
+Mon Apr 28 12:50:39 2025
+    Move to NdCO3OH: -0.025, -0.924, -2.775
+Mon Apr 28 12:40:53 2025
+    New data will be saved in folder: GYIG06ambient_1
+Mon Apr 28 12:08:38 2025
+    scan00006 done, saved in folder: GYIG11ambient_1
+Mon Apr 28 12:06:58 2025
+    Move to NdCO3F2022: -0.318, -0.797, -2.672
+Mon Apr 28 12:06:57 2025
+    scan00005 done, saved in folder: GYIG11ambient_1
+Mon Apr 28 12:05:17 2025
+    Move to NdCO3F2023: -0.318, -0.827, -2.687
+Mon Apr 28 12:05:16 2025
+    scan00004 done, saved in folder: GYIG11ambient_1
+Mon Apr 28 12:03:25 2025
+    Move to LaCO3F: -0.318, -0.817, -2.717
+Mon Apr 28 12:02:36 2025
+    scan00003 done, saved in folder: GYIG11ambient_1
+Mon Apr 28 12:00:51 2025
+    Move to NdCO3F2022: -0.318, -0.797, -2.672
+Mon Apr 28 12:00:50 2025
+    scan00002 done, saved in folder: GYIG11ambient_1
+Mon Apr 28 11:59:05 2025
+    Move to NdCO3F2023: -0.318, -0.827, -2.687
+Mon Apr 28 11:59:04 2025
+    scan00001 done, saved in folder: GYIG11ambient_1
+Mon Apr 28 11:57:16 2025
+    Move to LaCO3F: -0.318, -0.817, -2.717
+Mon Apr 28 11:33:16 2025
+    New data will be saved in folder: GYIG11ambient_1
+Mon Apr 28 11:25:23 2025
+    scan00004 done, saved in folder: GYIG05ambient_1
+Mon Apr 28 11:23:19 2025
+    Move to CeCO3OH: -0.388, -0.915, -2.741
+Mon Apr 28 11:23:17 2025
+    scan00003 done, saved in folder: GYIG05ambient_1
+Mon Apr 28 11:21:03 2025
+    Move to CeCO3FZS: -0.388, -0.945, -2.836
+Mon Apr 28 11:20:35 2025
+    scan00002 done, saved in folder: GYIG05ambient_1
+Mon Apr 28 11:18:25 2025
+    Move to CeCO3OH: -0.388, -0.915, -2.741
+Mon Apr 28 11:18:24 2025
+    scan00001 done, saved in folder: GYIG05ambient_1
+Mon Apr 28 11:16:11 2025
+    Move to CeCO3FZS: -0.388, -0.945, -2.836
+Mon Apr 28 10:59:19 2025
+    New data will be saved in folder: GYIG05ambient_1
+Sun Apr 27 17:43:48 2025
+    Move to ruby: 0.983, -0.454, -3.888
+Sun Apr 27 17:43:42 2025
+    scan00005 done, saved in folder: 19p7GPa_1
+Sun Apr 27 17:41:22 2025
+    Move to st: 0.983, -0.519, -3.773
+Sun Apr 27 17:41:14 2025
+    scan00004 done, saved in folder: 19p7GPa_1
+Sun Apr 27 17:38:54 2025
+    Move to st: 0.983, -0.519, -3.773
+Sun Apr 27 17:38:27 2025
+    scan00003 done, saved in folder: 19p7GPa_1
+Sun Apr 27 17:36:08 2025
+    Move to rw: 0.983, -0.484, -3.818
+Sun Apr 27 17:35:42 2025
+    scan00002 done, saved in folder: 19p7GPa_1
+Sun Apr 27 17:33:32 2025
+    Move to rw: 0.983, -0.484, -3.818
+Sun Apr 27 17:33:14 2025
+    scan00001 done, saved in folder: 19p7GPa_1
+Sun Apr 27 17:31:52 2025
+    Move to Au: 0.983, -0.449, -3.773
+Sun Apr 27 17:31:47 2025
+    New data will be saved in folder: 19p7GPa_1
+Sun Apr 27 17:31:34 2025
+    Move to Au: 0.983, -0.449, -3.773
+Sun Apr 27 17:20:39 2025
+    Move to ruby: 0.983, -0.454, -3.888
+Sun Apr 27 17:20:29 2025
+    scan00005 done, saved in folder: 17p5GPa_1
+Sun Apr 27 17:18:09 2025
+    Move to st: 0.983, -0.519, -3.773
+Sun Apr 27 17:18:00 2025
+    scan00004 done, saved in folder: 17p5GPa_1
+Sun Apr 27 17:15:41 2025
+    Move to st: 0.983, -0.519, -3.773
+Sun Apr 27 17:14:25 2025
+    scan00003 done, saved in folder: 17p5GPa_1
+Sun Apr 27 17:12:06 2025
+    Move to rw: 0.983, -0.484, -3.818
+Sun Apr 27 17:10:05 2025
+    scan00002 done, saved in folder: 17p5GPa_1
+Sun Apr 27 17:07:56 2025
+    Move to rw: 0.983, -0.484, -3.818
+Sun Apr 27 17:07:09 2025
+    scan00001 done, saved in folder: 17p5GPa_1
+Sun Apr 27 17:05:47 2025
+    Move to Au: 0.983, -0.449, -3.773
+Sun Apr 27 17:05:43 2025
+    New data will be saved in folder: 17p5GPa_1
+Sun Apr 27 17:05:31 2025
+    Move to Au: 0.983, -0.449, -3.773
+Sun Apr 27 17:05:25 2025
+    Move to st: 0.983, -0.519, -3.773
+Sun Apr 27 17:05:09 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 17:05:05 2025
+    Move to Au: 0.983, -0.449, -3.773
+Sun Apr 27 16:53:10 2025
+    Move to ruby: 0.983, -0.454, -3.888
+Sun Apr 27 16:52:55 2025
+    scan00005 done, saved in folder: 14p7GPa_1
+Sun Apr 27 16:50:36 2025
+    Move to st: 0.983, -0.519, -3.773
+Sun Apr 27 16:50:25 2025
+    scan00004 done, saved in folder: 14p7GPa_1
+Sun Apr 27 16:48:06 2025
+    Move to st: 0.983, -0.519, -3.773
+Sun Apr 27 16:47:41 2025
+    scan00003 done, saved in folder: 14p7GPa_1
+Sun Apr 27 16:45:21 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 16:44:59 2025
+    scan00002 done, saved in folder: 14p7GPa_1
+Sun Apr 27 16:42:49 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 16:41:11 2025
+    scan00001 done, saved in folder: 14p7GPa_1
+Sun Apr 27 16:39:49 2025
+    Move to Au: 0.983, -0.449, -3.773
+Sun Apr 27 16:39:42 2025
+    New data will be saved in folder: 14p7GPa_1
+Sun Apr 27 16:39:33 2025
+    Move to Au: 0.983, -0.449, -3.773
+Sun Apr 27 16:39:30 2025
+    Move to st: 0.983, -0.519, -3.773
+Sun Apr 27 16:39:25 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 16:39:17 2025
+    Move to Au: 0.983, -0.449, -3.773
+Sun Apr 27 16:31:40 2025
+    Move to ruby: 0.983, -0.454, -3.888
+Sun Apr 27 16:30:26 2025
+    scan00005 done, saved in folder: 11p7GPa_1
+Sun Apr 27 16:28:06 2025
+    Move to st: 0.983, -0.519, -3.773
+Sun Apr 27 16:27:59 2025
+    scan00004 done, saved in folder: 11p7GPa_1
+Sun Apr 27 16:25:39 2025
+    Move to st: 0.983, -0.519, -3.773
+Sun Apr 27 16:25:13 2025
+    scan00003 done, saved in folder: 11p7GPa_1
+Sun Apr 27 16:22:53 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 16:22:47 2025
+    scan00002 done, saved in folder: 11p7GPa_1
+Sun Apr 27 16:20:37 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 16:19:39 2025
+    scan00001 done, saved in folder: 11p7GPa_1
+Sun Apr 27 16:18:18 2025
+    Move to Au: 0.983, -0.449, -3.773
+Sun Apr 27 16:18:05 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 16:17:47 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 16:17:40 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 16:17:24 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 16:17:04 2025
+    New data will be saved in folder: 11p7GPa_1
+Sun Apr 27 16:05:38 2025
+    Move to ruby: 0.983, -0.454, -3.888
+Sun Apr 27 16:05:03 2025
+    scan00004 done, saved in folder: 9p9GPa_1
+Sun Apr 27 16:02:43 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 15:59:33 2025
+    scan00003 done, saved in folder: 9p9GPa_1
+Sun Apr 27 15:57:13 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 15:55:38 2025
+    scan00002 done, saved in folder: 9p9GPa_1
+Sun Apr 27 15:53:15 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 15:52:57 2025
+    scan00001 done, saved in folder: 9p9GPa_1
+Sun Apr 27 15:50:47 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 15:50:33 2025
+    New data will be saved in folder: 9p9GPa_1
+Sun Apr 27 15:50:22 2025
+    scan00006 done, saved in folder: 7p4GPa_1
+Sun Apr 27 15:49:00 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 15:48:48 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 15:40:41 2025
+    Move to ruby: 0.983, -0.454, -3.888
+Sun Apr 27 15:39:37 2025
+    scan00005 done, saved in folder: 7p4GPa_1
+Sun Apr 27 15:37:17 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 15:37:03 2025
+    scan00004 done, saved in folder: 7p4GPa_1
+Sun Apr 27 15:34:43 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 15:34:19 2025
+    scan00003 done, saved in folder: 7p4GPa_1
+Sun Apr 27 15:31:59 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 15:31:39 2025
+    scan00002 done, saved in folder: 7p4GPa_1
+Sun Apr 27 15:29:29 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 15:28:40 2025
+    scan00001 done, saved in folder: 7p4GPa_1
+Sun Apr 27 15:27:18 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 15:27:13 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 15:27:10 2025
+    New data will be saved in folder: 7p4GPa_1
+Sun Apr 27 15:26:57 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 15:26:51 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 15:26:35 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 15:17:26 2025
+    Move to ruby: 0.983, -0.454, -3.888
+Sun Apr 27 15:17:14 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 15:15:57 2025
+    Move to ruby: 0.983, -0.454, -3.888
+Sun Apr 27 15:15:44 2025
+    scan00005 done, saved in folder: 5GPa_1
+Sun Apr 27 15:13:25 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 15:13:07 2025
+    scan00004 done, saved in folder: 5GPa_1
+Sun Apr 27 15:10:47 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 15:10:27 2025
+    scan00003 done, saved in folder: 5GPa_1
+Sun Apr 27 15:08:07 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 15:07:14 2025
+    scan00002 done, saved in folder: 5GPa_1
+Sun Apr 27 15:05:02 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 15:04:55 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 15:04:50 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 15:04:40 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 15:03:58 2025
+    scan00001 done, saved in folder: 5GPa_1
+Sun Apr 27 15:02:36 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 15:02:26 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 15:02:19 2025
+    New data will be saved in folder: 5GPa_1
+Sun Apr 27 14:52:16 2025
+    Move to ruby: 0.983, -0.454, -3.888
+Sun Apr 27 14:51:57 2025
+    scan00005 done, saved in folder: 2p15GPa_1
+Sun Apr 27 14:49:38 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 14:49:13 2025
+    scan00004 done, saved in folder: 2p15GPa_1
+Sun Apr 27 14:47:03 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 14:46:58 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 14:46:39 2025
+    scan00003 done, saved in folder: 2p15GPa_1
+Sun Apr 27 14:45:18 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 14:44:59 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 14:44:42 2025
+    scan00002 done, saved in folder: 2p15GPa_1
+Sun Apr 27 14:42:22 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 14:41:58 2025
+    scan00001 done, saved in folder: 2p15GPa_1
+Sun Apr 27 14:39:35 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 14:39:28 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 14:39:23 2025
+    New data will be saved in folder: 2p15GPa_1
+Sun Apr 27 14:15:28 2025
+    Move to ruby: 0.983, -0.454, -3.888
+Sun Apr 27 14:14:59 2025
+    scan00005 done, saved in folder: 0p2GPa_1
+Sun Apr 27 14:12:39 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 14:12:28 2025
+    scan00004 done, saved in folder: 0p2GPa_1
+Sun Apr 27 14:10:05 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 14:09:51 2025
+    Move to st: 0.983, -0.524, -3.773
+Sun Apr 27 14:09:43 2025
+    scan00003 done, saved in folder: 0p2GPa_1
+Sun Apr 27 14:07:19 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 14:06:45 2025
+    scan00002 done, saved in folder: 0p2GPa_1
+Sun Apr 27 14:04:33 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 14:04:27 2025
+    Move to rw: 0.983, -0.484, -3.823
+Sun Apr 27 13:58:47 2025
+    scan00001 done, saved in folder: 0p2GPa_1
+Sun Apr 27 13:57:36 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 13:57:24 2025
+    New data will be saved in folder: 0p2GPa_1
+Sun Apr 27 13:56:40 2025
+    Move to Au: 0.983, -0.454, -3.773
+Sun Apr 27 13:55:52 2025
+    Move to center: 0.983, -0.489, -3.793
+Sun Apr 27 13:53:26 2025
+    Move to center: 0.983, -0.489, -3.793
+Sun Apr 27 12:09:25 2025
+    scan00008 done, saved in folder: 0GPa_1
+Sun Apr 27 12:07:16 2025
+    Move to rw: 0.016, -0.905, -4.273
+Sun Apr 27 12:06:29 2025
+    scan00007 done, saved in folder: 0GPa_1
+Sun Apr 27 12:04:21 2025
+    Move to rw: 0.016, -0.905, -4.273
+Sun Apr 27 12:02:31 2025
+    scan00006 done, saved in folder: 0GPa_1
+Sun Apr 27 12:00:11 2025
+    Move to st: 0.016, -0.850, -4.293
+Sun Apr 27 11:59:55 2025
+    Move to st: 0.016, -0.850, -4.293
+Sun Apr 27 11:59:47 2025
+    scan00005 done, saved in folder: 0GPa_1
+Sun Apr 27 11:57:35 2025
+    Move to st: 0.016, -0.850, -4.293
+Sun Apr 27 10:49:13 2025
+    scan00004 done, saved in folder: 0GPa_1
+Sun Apr 27 10:47:03 2025
+    Move to rw: 0.082, -0.967, -4.197
+Sun Apr 27 10:46:40 2025
+    Move to rw: 0.082, -0.967, -4.197
+Sun Apr 27 10:45:43 2025
+    scan00003 done, saved in folder: 0GPa_1
+Sun Apr 27 10:43:33 2025
+    Move to st: 0.082, -1.004, -4.225
+Sun Apr 27 10:43:22 2025
+    Move to st: 0.082, -1.004, -4.225
+Sun Apr 27 10:42:32 2025
+    scan00002 done, saved in folder: 0GPa_1
+Sun Apr 27 10:40:17 2025
+    Move to rw: 0.082, -0.967, -4.197
+Sun Apr 27 10:40:16 2025
+    scan00001 done, saved in folder: 0GPa_1
+Sun Apr 27 10:37:58 2025
+    Move to st: 0.082, -1.004, -4.225
+Sun Apr 27 10:33:50 2025
+    New data will be saved in folder: 0GPa_1
+Sun Apr 27 03:59:59 2025
+    Move to ruby: 0.075, -0.272, -3.643
+Sun Apr 27 03:59:10 2025
+    scan00002 done, saved in folder: SXTLP14_1
+Sun Apr 27 03:56:30 2025
+    Move to : 0.075, -0.312, -3.633
+Sun Apr 27 03:53:27 2025
+    scan00001 done, saved in folder: SXTLP14_1
+Sun Apr 27 03:50:38 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 03:50:28 2025
+    New data will be saved in folder: SXTLP14_1
+Sun Apr 27 03:41:13 2025
+    Move to ruby: 0.075, -0.272, -3.643
+Sun Apr 27 03:35:33 2025
+    Move to ruby: 0.075, -0.272, -3.643
+Sun Apr 27 03:35:08 2025
+    scan00002 done, saved in folder: SXTLP13_1
+Sun Apr 27 03:32:28 2025
+    Move to : 0.075, -0.312, -3.633
+Sun Apr 27 03:31:00 2025
+    scan00001 done, saved in folder: SXTLP13_1
+Sun Apr 27 03:28:11 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 03:28:05 2025
+    New data will be saved in folder: SXTLP13_1
+Sun Apr 27 03:19:38 2025
+    Move to ruby: 0.075, -0.272, -3.643
+Sun Apr 27 03:19:07 2025
+    scan00002 done, saved in folder: SXTLP12_1
+Sun Apr 27 03:16:27 2025
+    Move to : 0.075, -0.312, -3.633
+Sun Apr 27 03:14:58 2025
+    scan00001 done, saved in folder: SXTLP12_1
+Sun Apr 27 03:12:10 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 03:12:00 2025
+    New data will be saved in folder: SXTLP12_1
+Sun Apr 27 03:06:44 2025
+    Move to ruby: 0.075, -0.272, -3.643
+Sun Apr 27 03:06:04 2025
+    scan00002 done, saved in folder: SXTLP11_1
+Sun Apr 27 03:03:24 2025
+    Move to : 0.075, -0.312, -3.633
+Sun Apr 27 03:02:13 2025
+    scan00001 done, saved in folder: SXTLP11_1
+Sun Apr 27 02:59:26 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 02:59:06 2025
+    New data will be saved in folder: SXTLP11_1
+Sun Apr 27 02:49:45 2025
+    Move to ruby: 0.075, -0.272, -3.643
+Sun Apr 27 02:48:30 2025
+    scan00002 done, saved in folder: SXTLP10_1
+Sun Apr 27 02:45:50 2025
+    Move to : 0.075, -0.312, -3.633
+Sun Apr 27 02:43:10 2025
+    scan00001 done, saved in folder: SXTLP10_1
+Sun Apr 27 02:40:21 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 02:40:10 2025
+    New data will be saved in folder: SXTLP10_1
+Sun Apr 27 02:37:36 2025
+    Move to ruby: 0.075, -0.272, -3.638
+Sun Apr 27 02:28:34 2025
+    Move to ruby: 0.075, -0.272, -3.638
+Sun Apr 27 02:28:14 2025
+    scan00002 done, saved in folder: SXTLP9_1
+Sun Apr 27 02:25:34 2025
+    Move to : 0.075, -0.312, -3.633
+Sun Apr 27 02:23:58 2025
+    scan00001 done, saved in folder: SXTLP9_1
+Sun Apr 27 02:21:10 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 02:09:31 2025
+    New data will be saved in folder: SXTLP9_1
+Sun Apr 27 02:08:15 2025
+    Move to ruby: 0.075, -0.272, -3.633
+Sun Apr 27 02:07:50 2025
+    scan00002 done, saved in folder: SXTLP8_1
+Sun Apr 27 02:05:10 2025
+    Move to : 0.075, -0.312, -3.633
+Sun Apr 27 02:04:48 2025
+    scan00001 done, saved in folder: SXTLP8_1
+Sun Apr 27 02:02:01 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 01:55:40 2025
+    New data will be saved in folder: SXTLP8_1
+Sun Apr 27 01:54:38 2025
+    Move to ruby: 0.075, -0.282, -3.628
+Sun Apr 27 01:54:08 2025
+    scan00002 done, saved in folder: SXTLP7_1
+Sun Apr 27 01:51:28 2025
+    Move to : 0.075, -0.312, -3.633
+Sun Apr 27 01:51:19 2025
+    scan00001 done, saved in folder: SXTLP7_1
+Sun Apr 27 01:48:31 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 01:44:16 2025
+    New data will be saved in folder: SXTLP7_1
+Sun Apr 27 01:43:14 2025
+    Move to ruby: 0.075, -0.282, -3.628
+Sun Apr 27 01:41:29 2025
+    scan00002 done, saved in folder: SXTLP6_1
+Sun Apr 27 01:38:49 2025
+    Move to : 0.075, -0.312, -3.633
+Sun Apr 27 01:38:16 2025
+    scan00001 done, saved in folder: SXTLP6_1
+Sun Apr 27 01:35:28 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 01:35:06 2025
+    New data will be saved in folder: SXTLP6_1
+Sun Apr 27 01:30:41 2025
+    Move to ruby: 0.075, -0.282, -3.628
+Sun Apr 27 01:27:37 2025
+    scan00002 done, saved in folder: SXTLP5_1
+Sun Apr 27 01:24:57 2025
+    Move to : 0.075, -0.312, -3.633
+Sun Apr 27 01:24:39 2025
+    scan00001 done, saved in folder: SXTLP5_1
+Sun Apr 27 01:21:51 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 01:21:37 2025
+    New data will be saved in folder: SXTLP5_1
+Sun Apr 27 01:15:26 2025
+    Move to ruby: 0.075, -0.282, -3.628
+Sun Apr 27 01:10:08 2025
+    scan00002 done, saved in folder: SXTLP4_1
+Sun Apr 27 01:07:28 2025
+    Move to : 0.075, -0.312, -3.633
+Sun Apr 27 01:05:00 2025
+    scan00001 done, saved in folder: SXTLP4_1
+Sun Apr 27 01:02:13 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 01:01:46 2025
+    New data will be saved in folder: SXTLP4_1
+Sun Apr 27 00:58:14 2025
+    Move to ruby: 0.075, -0.282, -3.628
+Sun Apr 27 00:55:09 2025
+    scan00002 done, saved in folder: SXTLP3_1
+Sun Apr 27 00:52:30 2025
+    Move to : 0.075, -0.312, -3.633
+Sun Apr 27 00:50:56 2025
+    scan00001 done, saved in folder: SXTLP3_1
+Sun Apr 27 00:48:20 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 00:47:28 2025
+    New data will be saved in folder: SXTLP3_1
+Sun Apr 27 00:46:39 2025
+    scan00002 done, saved in folder: SXTLP2_1
+Sun Apr 27 00:44:03 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 00:43:11 2025
+    scan00001 done, saved in folder: SXTLP2_1
+Sun Apr 27 00:40:21 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sun Apr 27 00:39:16 2025
+    New data will be saved in folder: SXTLP2_1
+Sun Apr 27 00:25:38 2025
+    scan00002 done, saved in folder: SXTLP1_1
+Sun Apr 27 00:22:58 2025
+    Move to : 0.075, -0.312, -3.633
+Sat Apr 26 23:59:43 2025
+    scan00001 done, saved in folder: SXTLP1_1
+Sat Apr 26 23:57:08 2025
+    Move to GaNbSe: 0.075, -0.312, -3.633
+Sat Apr 26 23:54:02 2025
+    New data will be saved in folder: SXTLP1_1
+Sat Apr 26 15:42:09 2025
+    New data will be saved in folder: SXTLP0_2
+Sat Apr 26 10:01:15 2025
+    scan00002 done, saved in folder: SXTLP0_1
+Sat Apr 26 09:58:35 2025
+    Move to : -0.142, -0.885, -4.151
+Sat Apr 26 09:57:41 2025
+    scan00001 done, saved in folder: SXTLP0_1
+Sat Apr 26 09:55:05 2025
+    Move to GaNbSe: -0.142, -0.885, -4.151
+Sat Apr 26 09:54:02 2025
+    New data will be saved in folder: SXTLP0_1

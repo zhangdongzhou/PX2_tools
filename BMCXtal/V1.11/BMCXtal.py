@@ -384,7 +384,7 @@ class MainWindow(QtWidgets.QMainWindow):
         kphiini = epics.caget('13BMC:m33.VAL')
         cmdcon = "xtal kphi " + KphiS.text()+' '+ KphiE.text()+' '+ str(int(StpN.text()))+' '+ TimNE.text()
         eval("xtalcmd.executeCommand(\"%s\")" % cmdcon)
-        Ttem = np.abs(kphiini-float(KphiS.text()))/kphivelo + float(TimNE.text())*float(StpN.text()) + 4.0
+        Ttem = np.abs(kphiini-float(KphiS.text()))/kphivelo + float(TimNE.text())*float(StpN.text()) + 10.0
         time.sleep(Ttem)
         if (int(StpN.text())>1) and (group[11].isChecked() == True):
             time.sleep(2.0)
