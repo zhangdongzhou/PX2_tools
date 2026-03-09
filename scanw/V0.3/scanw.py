@@ -198,7 +198,7 @@ class MainWindow(QtWidgets.QMainWindow):
         
         
         self.setLayout(self.lay_2)
-        self.globaldelay = 0.15
+        self.globaldelay = 0.2
         self.globalflag = 1
         self.overflag = 0
         self.deriflag = 0
